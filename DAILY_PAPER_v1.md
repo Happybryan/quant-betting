@@ -22,3 +22,8 @@ PrizePicks legs: ESPN box scores (prop_settle.py). Kalshi: its own settlement. C
 - Candidates: 2-pick Power at **2x** and 3-pick Power at **5x**: Bryan's actual payouts (screenshot 2026-09-30).
 - Choose the size with the higher EV; the bigger slip only if its EV beats the smaller by >= 0.05 per $1.
 - Settled with the real payout. This is the slip Bryan uses for free Bonus Lineups.
+
+## v3 addition: BET_OF_THE_DAY (written 2026-10-02 ~02:40 UTC, first pick 2026-10-02 15:00 ET; earlier kinds unchanged)
+- Exactly one pick per day, any sport: highest EV per $1 among Kalshi singles (all registry-matched sports; YES ask >= 0.20 only, H4b ban) and the best PrizePicks Power slip (pp_best, real payouts).
+- Labels: REAL BET = EV > 0 AND Kalshi grade A/B AND P(edge > 0) >= 0.80. CHECK PAYOUT = PrizePicks slip with EV > 0 at the default payout: Bryan screenshots the builder, real only if the shown multiplier beats `breakeven_x`. PAPER PICK = everything else (logged and scored, never bet).
+- Runner-ups (top 3) stored in the payload. Settled like its venue. Scored by sport in the report.

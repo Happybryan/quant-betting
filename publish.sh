@@ -5,7 +5,7 @@ set -e
 cd "$(dirname "$0")"
 PUB=../quant-betting-public
 GH=~/.local/bin/gh
-[ -d "$PUB/.git" ] || { mkdir -p "$PUB"; git -C "$PUB" init -q -b main; git -C "$PUB" remote add origin https://github.com/happybryan/quant-betting.git; }
+[ -d "$PUB/.git" ] || { mkdir -p "$PUB"; git -C "$PUB" init -q -b main; git -C "$PUB" remote add origin https://github.com/Happybryan/quant-betting.git; }
 find "$PUB" -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
 git archive HEAD | tar -x -C "$PUB"
 grep -rlI "<account>" "$PUB" --exclude-dir=.git | while read -r f; do sed -i '' 's/<account>/<account>/g' "$f"; done
