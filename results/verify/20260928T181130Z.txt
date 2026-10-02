@@ -1,0 +1,64 @@
+VERIFY_v2.0 run 2026-09-28T18:11:30+00:00 | model PP_PROP_v0.2 | data DATA_v1.3 | exec EXEC_v1.0
+
+==========================================================================================
+D'Andre Swift | rush yards 61.5 MORE
+  [ ] Exact PrizePicks line confirmed          D'Andre Swift rush yards 61.5 MORE (from your message, not a slip)
+  [ ] Line type standard (not goblin/demon)    needs slip screenshot
+  [ ] Actual payout structure                  AWAITING SLIP VERIFICATION
+  [x] Data collector healthy                   pinnacle_prop last ok 13m ago (cadence 10m), pinnacle last ok 13m ago (cadence 10m)
+  [x] Event not started                        starts 2026-09-29T00:15:00Z (6.1h)
+  [x] Current price refresh                    Pinnacle + Kalshi fetched live at 2026-09-28T18:11:30+00:00 (this run)
+  [x] Pinnacle price + vig removed             line 61.5 O -109/U -111 raw 0.522/0.526 (overround 0.048) -> no-vig MORE 0.498 (method range low 0.498)
+  [!] Kalshi exchange price                    no usable Kalshi ladder at this exact line
+  [!] Line consensus                           PrizePicks 61.5, Pinnacle 61.5, DraftKings 60.5 | OUTLIER vs PP: ['DraftKings'] | DK prices not exposed, line only
+  [!] Market consensus                         1 priced source(s): consensus 0.498, conservative 0.498 (single source: Pinnacle only)
+  [x] Market quality / limits                  MEDIUM: Pinnacle limit $2500, Kalshi volume 0, 1 priced sources
+  [x] Injury status (ESPN)                     D'Andre Swift: not on injury report
+  [!] Relevant teammate injuries               Caleb Williams QB Out
+  [x] Weather / venue                          Soldier Field: 64F, gust 7 mph, precip 0%
+  [!] Starter status                           PROXY only: last game 2026 wk2 5 tgt, 16 car. Official NFL inactives post ~90 min before kickoff
+  [x] Game environment                         Philadelphia Eagles @ Chicago Bears: total 41.5, Chicago Bears spread +3.5, implied team total 19.0
+  [ ] Environment model (team total)           no validated model for this stat yet
+  [ ] Statistical model (player history)       no validated model for this stat yet
+  [!] Market movement (Pinnacle, our collector) first seen 14:41Z MORE 0.521 -> now 0.498 (-2.3pp, -0.08pp/h, largest step -2.1pp by 18:50Z) | UNOBSERVED collector gaps: 15:09-18:50Z; 19:10-20:19Z; 20:19-23:06Z; 00:58-01:18Z; 01:28-01:48Z; 01:58-02:18Z; 02:28-02:48Z; 02:58-03:18Z; 03:28-03:48Z; 03:58-04:18Z; 04:28-04:48Z; 04:58-05:18Z; 05:28-05:48Z; 05:58-06:18Z; 06:28-06:48Z; 06:58-07:18Z; 08:28-08:48Z; 08:59-09:18Z; 09:29-09:48Z; 10:28-10:48Z; 10:58-11:18Z; 11:29-11:48Z; 11:58-12:15Z
+  [!] Market movement (DraftKings line)        open 67.5 -> current 60.5 (updated 2026-09-28T20:35Z)
+  [ ] Stale-line check                         PrizePicks line timestamp not observable; compare against a fresh board just before entry
+  BEAR CASE: teammate injuries: Caleb Williams QB Out; market moved against MORE by -2.3pp since first seen (cause unverified; see postmortem catalyst check)
+
+==========================================================================================
+ENTRY: correlation, sensitivity, stress test
+  Correlation: all legs in different games: independence assumed (shared weather/news ignored)
+  Payout: HYPOTHETICAL 3x - AWAITING SLIP VERIFICATION, not a final EV. Break-even joint 0.333, per leg 0.333
+  scenario                     legs                          joint      EV
+  consensus                    0.498                         0.498  +49.4%
+  conservative (worst source)  0.498                         0.498  +49.3%
+  consensus -2pp per leg       0.478                         0.478  +43.4%
+  consensus -4pp per leg       0.458                         0.458  +37.4%
+  consensus -6pp per leg       0.438                         0.438  +31.4%
+  Robustness: ROBUST to a 4pp per-leg overestimate
+
+PRE-BET SNAPSHOT #12 saved (sha256 c241949dfa5ef942...), results/prebet/00012_c241949dfa5e.json
+
+PRE-BET GATE: D'Andre Swift rush yards 61.5 MORE   DATA QUALITY C   LEVEL C - INTERESTING (NO MONEY): unresolved manual checks
+  ✗ MARKET VERIFIED
+  ✗ PAYOUT VERIFIED
+  ✗ MULTI-BOOK CHECK
+  ✓ NO-VIG CALCULATION
+  ✗ NEWS CHECK
+  ✗ STARTER/ROLE CHECK
+  ✓ WEATHER CHECK
+  ✓ GAME-ENVIRONMENT CHECK
+  ✗ STATISTICAL MODEL (team total)
+  ✗ MARKET MODEL
+  ✗ HISTORICAL MODEL (player)
+  ✗ MARKET MOVEMENT CHECK
+  ✓ CURRENT PRICE REFRESH
+  ✓ DATA COLLECTOR HEALTHY
+  ✓ CORRELATION CHECK
+  ✗ BEAR CASE
+  ✓ SENSITIVITY ANALYSIS
+  ✓ PRE-BET SNAPSHOT SAVED
+
+==========================================================================================
+NO OFFICIAL SLIP. LEVEL C - INTERESTING (NO MONEY): unresolved manual checks | no --stake given
+Legend: [x] ok  [!] warning  [X] fail  [ ] manual/unresolved

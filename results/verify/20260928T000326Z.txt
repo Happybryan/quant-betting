@@ -1,0 +1,63 @@
+VERIFY_v2.0 run 2026-09-28T00:03:26+00:00 | model PP_PROP_v0.2 | data DATA_v1.2 | exec EXEC_v1.0
+
+==========================================================================================
+Terrance Ferguson | receptions 3.5 MORE
+  [ ] Exact PrizePicks line confirmed          Terrance Ferguson receptions 3.5 MORE (from your message, not a slip)
+  [ ] Line type standard (not goblin/demon)    needs slip screenshot
+  [ ] Actual payout structure                  AWAITING SLIP VERIFICATION
+  [x] Data collector healthy                   pinnacle last ok 2m ago (cadence 2m)
+  [x] Event not started                        starts 2026-09-28T00:20:00Z (0.3h)
+  [x] Current price refresh                    Pinnacle + Kalshi fetched live at 2026-09-28T00:03:26+00:00 (this run)
+  [x] Pinnacle price + vig removed             line 3.5 O -170/U +139 raw 0.630/0.418 (overround 0.048) -> no-vig MORE 0.601 (method range low 0.601)
+  [x] Kalshi exchange price                    Terrance Ferguson: 4+ receptions bid 0.58/ask 0.59 vol 39112 -> MORE mid 0.585 (conservative 0.580)
+  [x] Line consensus                           PrizePicks 3.5, Pinnacle 3.5 | all agree | DK line unavailable
+  [x] Market consensus                         2 priced source(s): consensus 0.593, conservative 0.580
+  [x] Market quality / limits                  HIGH: Pinnacle limit $5000, Kalshi volume 39112, 2 priced sources
+  [x] Injury status (ESPN)                     Terrance Ferguson: not on injury report
+  [x] Relevant teammate injuries               no injured teammate with recent usage (OL usage not measurable: unchecked)
+  [x] Weather / venue                          Empower Field at Mile High: 80F, gust 9 mph, precip 49%
+  [!] Starter status                           PROXY only: last game 2026 wk2 9 tgt, 0 car. Official NFL inactives post ~90 min before kickoff
+  [x] Game environment                         Los Angeles Rams @ Denver Broncos: total 44.0, Los Angeles Rams spread -1.0, implied team total 22.5
+  [ ] Environment model (team total)           no validated model for this stat yet
+  [ ] Statistical model (player history)       no validated model for this stat yet
+  [!] Market movement (Pinnacle, our collector) first seen 14:41Z MORE 0.614 -> now 0.601 (-1.3pp, -0.14pp/h, largest step -0.7pp by 23:06Z) | UNOBSERVED collector gaps: 15:09-18:50Z; 19:10-20:19Z; 20:19-23:06Z
+  [ ] Stale-line check                         PrizePicks line timestamp not observable; compare against a fresh board just before entry
+  BEAR CASE: nothing specific found by the automated checks; still read the checklist above
+
+==========================================================================================
+ENTRY: correlation, sensitivity, stress test
+  Correlation: all legs in different games: independence assumed (shared weather/news ignored)
+  Payout: HYPOTHETICAL 3x - AWAITING SLIP VERIFICATION, not a final EV. Break-even joint 0.333, per leg 0.333
+  scenario                     legs                          joint      EV
+  consensus                    0.593                         0.593  +77.9%
+  conservative (worst source)  0.580                         0.580  +74.0%
+  consensus -2pp per leg       0.573                         0.573  +71.9%
+  consensus -4pp per leg       0.553                         0.553  +65.9%
+  consensus -6pp per leg       0.533                         0.533  +59.9%
+  Robustness: ROBUST to a 4pp per-leg overestimate
+
+PRE-BET SNAPSHOT #5 saved (sha256 d0192dfb20ae99c9...), results/prebet/00005_d0192dfb20ae.json
+
+PRE-BET GATE: Terrance Ferguson receptions 3.5 MORE   DATA QUALITY B   LEVEL C - INTERESTING (NO MONEY): unresolved manual checks
+  ✗ MARKET VERIFIED
+  ✗ PAYOUT VERIFIED
+  ✓ MULTI-BOOK CHECK
+  ✓ NO-VIG CALCULATION
+  ✓ NEWS CHECK
+  ✗ STARTER/ROLE CHECK
+  ✓ WEATHER CHECK
+  ✓ GAME-ENVIRONMENT CHECK
+  ✗ STATISTICAL MODEL (team total)
+  ✓ MARKET MODEL
+  ✗ HISTORICAL MODEL (player)
+  ✗ MARKET MOVEMENT CHECK
+  ✓ CURRENT PRICE REFRESH
+  ✓ DATA COLLECTOR HEALTHY
+  ✓ CORRELATION CHECK
+  ✓ BEAR CASE
+  ✓ SENSITIVITY ANALYSIS
+  ✓ PRE-BET SNAPSHOT SAVED
+
+==========================================================================================
+NO OFFICIAL SLIP. LEVEL C - INTERESTING (NO MONEY): unresolved manual checks | no --stake given
+Legend: [x] ok  [!] warning  [X] fail  [ ] manual/unresolved

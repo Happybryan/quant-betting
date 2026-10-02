@@ -1,0 +1,7 @@
+data/
+__pycache__/
+*.pyc
+logs/
+cloud/node_modules/
+cloud/.wrangler/
+.env

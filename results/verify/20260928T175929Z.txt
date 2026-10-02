@@ -1,0 +1,63 @@
+VERIFY_v2.0 run 2026-09-28T17:59:29+00:00 | model PP_PROP_v0.2 | data DATA_v1.3 | exec EXEC_v1.0
+
+==========================================================================================
+Johnny Mundt | receptions 1.5 LESS
+  [ ] Exact PrizePicks line confirmed          Johnny Mundt receptions 1.5 LESS (from your message, not a slip)
+  [ ] Line type standard (not goblin/demon)    needs slip screenshot
+  [ ] Actual payout structure                  AWAITING SLIP VERIFICATION
+  [x] Data collector healthy                   pinnacle_prop last ok 11m ago (cadence 10m), pinnacle last ok 11m ago (cadence 10m)
+  [x] Event not started                        starts 2026-09-29T00:15:00Z (6.3h)
+  [x] Current price refresh                    Pinnacle + Kalshi fetched live at 2026-09-28T17:59:29+00:00 (this run)
+  [x] Pinnacle price + vig removed             line 1.5 O +144/U -176 raw 0.410/0.638 (overround 0.048) -> no-vig LESS 0.609 (method range low 0.609)
+  [x] Kalshi exchange price                    Johnny Mundt: 2+ receptions bid 0.39/ask 0.40 vol 9756 -> LESS mid 0.605 (conservative 0.600)
+  [x] Line consensus                           PrizePicks 1.5, Pinnacle 1.5 | all agree | DK line unavailable
+  [x] Market consensus                         2 priced source(s): consensus 0.607, conservative 0.600
+  [x] Market quality / limits                  HIGH: Pinnacle limit $1000, Kalshi volume 9756, 2 priced sources
+  [x] Injury status (ESPN)                     Johnny Mundt: not on injury report
+  [!] Relevant teammate injuries               Dallas Goedert TE Out
+  [x] Weather / venue                          Soldier Field: 64F, gust 7 mph, precip 0%
+  [!] Starter status                           PROXY only: last game 2026 wk2 3 tgt, 0 car. Official NFL inactives post ~90 min before kickoff
+  [x] Game environment                         Philadelphia Eagles @ Chicago Bears: total 41.5, Philadelphia Eagles spread -3.5, implied team total 22.5
+  [ ] Environment model (team total)           no validated model for this stat yet
+  [ ] Statistical model (player history)       no validated model for this stat yet
+  [x] Market movement (Pinnacle, our collector) first seen 14:54Z LESS 0.610 -> now 0.609 (-0.1pp, -0.05pp/h, largest step -0.1pp by 17:48Z) | continuous coverage
+  [ ] Stale-line check                         PrizePicks line timestamp not observable; compare against a fresh board just before entry
+  BEAR CASE: teammate injuries: Dallas Goedert TE Out
+
+==========================================================================================
+ENTRY: correlation, sensitivity, stress test
+  Correlation: all legs in different games: independence assumed (shared weather/news ignored)
+  Payout: HYPOTHETICAL 3x - AWAITING SLIP VERIFICATION, not a final EV. Break-even joint 0.333, per leg 0.333
+  scenario                     legs                          joint      EV
+  consensus                    0.607                         0.607  +82.1%
+  conservative (worst source)  0.600                         0.600  +80.0%
+  consensus -2pp per leg       0.587                         0.587  +76.1%
+  consensus -4pp per leg       0.567                         0.567  +70.1%
+  consensus -6pp per leg       0.547                         0.547  +64.1%
+  Robustness: ROBUST to a 4pp per-leg overestimate
+
+PRE-BET SNAPSHOT #8 saved (sha256 dc967e144179e11b...), results/prebet/00008_dc967e144179.json
+
+PRE-BET GATE: Johnny Mundt receptions 1.5 LESS   DATA QUALITY B   LEVEL C - INTERESTING (NO MONEY): unresolved manual checks
+  ✗ MARKET VERIFIED
+  ✗ PAYOUT VERIFIED
+  ✓ MULTI-BOOK CHECK
+  ✓ NO-VIG CALCULATION
+  ✗ NEWS CHECK
+  ✗ STARTER/ROLE CHECK
+  ✓ WEATHER CHECK
+  ✓ GAME-ENVIRONMENT CHECK
+  ✗ STATISTICAL MODEL (team total)
+  ✓ MARKET MODEL
+  ✗ HISTORICAL MODEL (player)
+  ✓ MARKET MOVEMENT CHECK
+  ✓ CURRENT PRICE REFRESH
+  ✓ DATA COLLECTOR HEALTHY
+  ✓ CORRELATION CHECK
+  ✗ BEAR CASE
+  ✓ SENSITIVITY ANALYSIS
+  ✓ PRE-BET SNAPSHOT SAVED
+
+==========================================================================================
+NO OFFICIAL SLIP. LEVEL C - INTERESTING (NO MONEY): unresolved manual checks | no --stake given
+Legend: [x] ok  [!] warning  [X] fail  [ ] manual/unresolved

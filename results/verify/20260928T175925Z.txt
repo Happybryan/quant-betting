@@ -1,0 +1,62 @@
+VERIFY_v2.0 run 2026-09-28T17:59:25+00:00 | model PP_PROP_v0.2 | data DATA_v1.3 | exec EXEC_v1.0
+
+==========================================================================================
+Case Keenum | pass tds 0.5 MORE
+  [ ] Exact PrizePicks line confirmed          Case Keenum pass tds 0.5 MORE (from your message, not a slip)
+  [ ] Line type standard (not goblin/demon)    needs slip screenshot
+  [ ] Actual payout structure                  AWAITING SLIP VERIFICATION
+  [x] Data collector healthy                   pinnacle_prop last ok 11m ago (cadence 10m), pinnacle last ok 11m ago (cadence 10m)
+  [x] Event not started                        starts 2026-09-29T00:15:00Z (6.3h)
+  [x] Current price refresh                    Pinnacle + Kalshi fetched live at 2026-09-28T17:59:25+00:00 (this run)
+  [x] Pinnacle price + vig removed             line 0.5 O -212/U +171 raw 0.679/0.369 (overround 0.048) -> no-vig MORE 0.648 (method range low 0.648)
+  [x] Kalshi exchange price                    Case Keenum: 1+ passing touchdowns bid 0.64/ask 0.65 vol 646 -> MORE mid 0.645 (conservative 0.640)
+  [x] Line consensus                           PrizePicks 0.5, Pinnacle 0.5 | all agree | DK line unavailable
+  [x] Market consensus                         2 priced source(s): consensus 0.647, conservative 0.640
+  [x] Market quality / limits                  MEDIUM: Pinnacle limit $1000, Kalshi volume 646, 2 priced sources
+  [ ] Injury status (ESPN)                     ESPN event not found
+  [ ] Weather / venue                          ESPN event not found
+  [!] Starter status                           PROXY only: last game n/a. Official NFL inactives post ~90 min before kickoff
+  [ ] Game environment                         could not derive implied team total
+  [ ] Environment model (team total)           no validated model for this stat yet
+  [ ] Statistical model (player history)       no validated model for this stat yet
+  [!] Market movement (Pinnacle, our collector) first seen 00:48Z MORE 0.653 -> now 0.648 (-0.5pp, -0.03pp/h, largest step -0.3pp by 13:04Z) | UNOBSERVED collector gaps: 00:58-01:18Z; 01:28-01:48Z; 01:58-02:18Z; 02:28-02:48Z; 02:58-03:18Z; 03:28-03:48Z; 03:58-04:18Z; 04:28-04:48Z; 04:58-05:18Z; 05:28-05:48Z; 05:58-06:18Z; 06:28-06:48Z; 06:58-07:18Z; 08:28-08:48Z; 08:59-09:18Z; 09:29-09:48Z; 10:28-10:48Z; 10:58-11:18Z; 11:29-11:48Z; 11:58-12:15Z
+  [ ] Stale-line check                         PrizePicks line timestamp not observable; compare against a fresh board just before entry
+  BEAR CASE: edge vs a coin-flip line is large (15pp). Confirm this is a standard pick with LESS available
+
+==========================================================================================
+ENTRY: correlation, sensitivity, stress test
+  Correlation: all legs in different games: independence assumed (shared weather/news ignored)
+  Payout: HYPOTHETICAL 3x - AWAITING SLIP VERIFICATION, not a final EV. Break-even joint 0.333, per leg 0.333
+  scenario                     legs                          joint      EV
+  consensus                    0.647                         0.647  +94.0%
+  conservative (worst source)  0.640                         0.640  +92.0%
+  consensus -2pp per leg       0.627                         0.627  +88.0%
+  consensus -4pp per leg       0.607                         0.607  +82.0%
+  consensus -6pp per leg       0.587                         0.587  +76.0%
+  Robustness: ROBUST to a 4pp per-leg overestimate
+
+PRE-BET SNAPSHOT #7 saved (sha256 0ccd3ffe79ecfdf9...), results/prebet/00007_0ccd3ffe79ec.json
+
+PRE-BET GATE: Case Keenum pass tds 0.5 MORE   DATA QUALITY C   LEVEL C - INTERESTING (NO MONEY): unresolved manual checks
+  ✗ MARKET VERIFIED
+  ✗ PAYOUT VERIFIED
+  ✓ MULTI-BOOK CHECK
+  ✓ NO-VIG CALCULATION
+  ✗ NEWS CHECK
+  ✗ STARTER/ROLE CHECK
+  ✗ WEATHER CHECK
+  ✗ GAME-ENVIRONMENT CHECK
+  ✗ STATISTICAL MODEL (team total)
+  ✓ MARKET MODEL
+  ✗ HISTORICAL MODEL (player)
+  ✗ MARKET MOVEMENT CHECK
+  ✓ CURRENT PRICE REFRESH
+  ✓ DATA COLLECTOR HEALTHY
+  ✓ CORRELATION CHECK
+  ✗ BEAR CASE
+  ✓ SENSITIVITY ANALYSIS
+  ✓ PRE-BET SNAPSHOT SAVED
+
+==========================================================================================
+NO OFFICIAL SLIP. LEVEL C - INTERESTING (NO MONEY): unresolved manual checks | no --stake given
+Legend: [x] ok  [!] warning  [X] fail  [ ] manual/unresolved

@@ -1,0 +1,10 @@
+{
+  "name": "quant-betting-collector",
+  "main": "src/index.js",
+  "compatibility_date": "2026-09-01",
+  "triggers": { "crons": ["* * * * *"] },
+  "d1_databases": [
+    { "binding": "DB", "database_name": "quant-betting", "database_id": "662a62e2-d661-4589-b354-b8894588003c" }
+  ],
+  "observability": { "enabled": true }
+}

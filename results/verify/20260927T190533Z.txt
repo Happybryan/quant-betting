@@ -1,0 +1,40 @@
+VERIFY_v1.0 run 2026-09-27T19:05:33+00:00
+
+==========================================================================================
+Jacoby Brissett | pass tds 1.5 LESS
+  [ ] Exact PrizePicks line confirmed          Jacoby Brissett pass tds 1.5 LESS (from your message, not a slip)
+  [ ] Line type standard (not goblin/demon)    needs slip screenshot
+  [ ] Actual payout structure                  AWAITING SLIP VERIFICATION
+  [x] Event not started                        starts 2026-09-27T20:05:00Z (1.0h)
+  [x] Pinnacle price + vig removed             line 1.5 O +155/U -190 raw 0.392/0.655 (overround 0.047) -> no-vig LESS 0.626 (method range low 0.626)
+  [x] Kalshi exchange price                    Jacoby Brissett: 2+ passing touchdowns bid 0.35/ask 0.36 vol 1669 -> LESS mid 0.645 (conservative 0.640)
+  [x] Line consensus                           PrizePicks 1.5, Pinnacle 1.5, DraftKings 1.5 | all agree | DK prices not exposed, line only
+  [x] Market consensus                         2 priced source(s): consensus 0.635, conservative 0.626
+  [x] Market quality / limits                  MEDIUM: Pinnacle limit $1000, Kalshi volume 1669, 2 priced sources
+  [x] Injury status (ESPN)                     Jacoby Brissett: not on injury report
+  [!] Relevant teammate injuries               Carson Beck QB Out; Reggie Virgil WR Out; Josh Fryar OT Out
+  [x] Weather / venue                          Levi's Stadium: 70F, gust 10 mph, precip 0%
+  [!] Starter status                           PROXY only: last game 2026 wk2 28 att. Official NFL inactives post ~90 min before kickoff
+  [x] Game environment                         Arizona Cardinals @ San Francisco 49ers: total 48.5, Arizona Cardinals spread +7.5, implied team total 20.5
+  [x] Environment model (team total)           LESS 0.617 vs market 0.635 (-1.8pp); lambda 1.33 (league pass TDs/pt 0.0648)
+  [!] Statistical model (player history)       LESS 0.503 vs market 0.635 (-13.2pp); lambda 1.67, 14 games, his TDs/implied pt 0.0881 (league 0.0658) x 20.5 pts, k=6 [STAT_v0.2 per implied point]
+  [!] Market movement (Pinnacle, our collector) first seen 14:41Z 1.5 LESS 0.659 -> 18:50Z 1.5 0.626 (-3.4pp)
+  [x] Market movement (DraftKings line)        open 1.5 -> current 1.5 (updated 2026-09-24T02:16Z)
+  [ ] Stale-line check                         PrizePicks line timestamp not observable; compare against a fresh board just before entry
+  BEAR CASE: teammate injuries: Carson Beck QB Out; Reggie Virgil WR Out; Josh Fryar OT Out; Statistical model (player history) disagrees with market by -13.2pp; find out why before trusting either; market moved against LESS by -3.4pp since first seen; edge vs a coin-flip line is large (14pp). Confirm this is a standard pick with LESS available
+
+==========================================================================================
+ENTRY: correlation, sensitivity, stress test
+  Correlation: all legs in different games: independence assumed (shared weather/news ignored)
+  Payout: HYPOTHETICAL 3x - AWAITING SLIP VERIFICATION, not a final EV. Break-even joint 0.333, per leg 0.333
+  scenario                     legs                          joint      EV
+  consensus                    0.635                         0.635  +90.6%
+  conservative (worst source)  0.626                         0.626  +87.7%
+  consensus -2pp per leg       0.615                         0.615  +84.6%
+  consensus -4pp per leg       0.595                         0.595  +78.6%
+  consensus -6pp per leg       0.575                         0.575  +72.6%
+  Robustness: ROBUST to a 4pp per-leg overestimate
+
+LEVELS (verification completeness, not a prediction):
+  Jacoby Brissett        pass tds 1.5 LESS: LEVEL C - INTERESTING (NO MONEY): unresolved manual checks
+Legend: [x] ok  [!] warning  [X] fail  [ ] manual/unresolved

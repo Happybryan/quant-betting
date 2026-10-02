@@ -1,0 +1,24 @@
+TEST A | NBA_PROP_v0.1 = C1 | period 2026-03-01 -> end of playoffs
+  PTS n=9095 logloss model 0.6823 | B0 0.7542 | diff -0.0719 [-0.0829, -0.0614]
+      0.3-0.4 n=  732 pred 0.380 actual 0.328 (±0.035) MISS
+      0.4-0.5 n= 8184 pred 0.448 actual 0.440 (±0.011)
+      0.5-0.6 n=  179 pred 0.510 actual 0.402 (±0.073) MISS
+    -> PTS: not validated
+  REB n=9095 logloss model 0.6752 | B0 0.6973 | diff -0.0221 [-0.0308, -0.0138]
+      0.3-0.4 n= 1919 pred 0.371 actual 0.338 (±0.022) MISS
+      0.4-0.5 n= 5396 pred 0.450 actual 0.434 (±0.013) MISS
+      0.5-0.6 n= 1720 pred 0.522 actual 0.490 (±0.024) MISS
+    -> REB: not validated
+  AST n=9095 logloss model 0.6635 | B0 0.6886 | diff -0.0252 [-0.0335, -0.0162]
+      0.0-0.3 n=  299 pred 0.276 actual 0.201 (±0.051) MISS
+      0.3-0.4 n= 2688 pred 0.361 actual 0.310 (±0.018) MISS
+      0.4-0.5 n= 4051 pred 0.449 actual 0.432 (±0.015) MISS
+      0.5-0.6 n= 2043 pred 0.531 actual 0.485 (±0.022) MISS
+    -> AST: not validated
+  TPM n=9095 logloss model 0.6278 | B0 0.6154 | diff +0.0124 [+0.0024, +0.0219]
+      0.0-0.3 n= 1382 pred 0.250 actual 0.197 (±0.023) MISS
+      0.3-0.4 n= 3199 pred 0.351 actual 0.276 (±0.017) MISS
+      0.4-0.5 n= 2695 pred 0.448 actual 0.439 (±0.019)
+      0.5-0.6 n= 1695 pred 0.542 actual 0.524 (±0.024)
+      0.6-0.7 n=  124 pred 0.608 actual 0.589 (±0.086)
+    -> TPM: not validated

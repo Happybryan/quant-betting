@@ -1,0 +1,14 @@
+H8 | usable markets 984 | excluded {'no game': 17, 'no candle': 4, 'no player': 212, 'not yes/no': 5} | fee multiplier 1
+
+PRIMARY (rung 2+, n=244): log loss
+  market mid        0.6736
+  M1 alone         0.6739
+  blend 0.75mkt+0.25M1 0.6713  diff vs market -0.0023 [-0.0078, +0.0028] -> no demonstrated information beyond the market
+  M2 alone         0.6849
+  blend 0.75mkt+0.25M2 0.6739  diff vs market +0.0003 [-0.0057, +0.0058] -> no demonstrated information beyond the market
+
+BETTING TEST (all rungs; edge >= 3pp after fee; YES at ask / NO at 1-bid)
+  M1: 167 bets, ROI +3.5% [-25.8, +32.9] | halves +23.8% / -16.4% | by rung 1+: n53 +34%, 2+: n71 -27%, 3+: n40 +25%, 4+: n3 -100%
+  DECISION M1: stays INFORMATION-ONLY
+  M2: 201 bets, ROI -12.3% [-39.5, +15.0] | halves -30.4% / +5.6% | by rung 1+: n33 -15%, 2+: n60 -23%, 3+: n65 -6%, 4+: n40 +3%, 5+: n3 -100%
+  DECISION M2: stays INFORMATION-ONLY

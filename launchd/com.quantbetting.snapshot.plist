@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>Label</key><string>com.quantbetting.snapshot</string>
+  <key>ProgramArguments</key><array><string>/bin/sh</string><string>-c</string>
+    <string>cd /Users/bryandabbelt/Projects/quant-betting &amp;&amp; /usr/bin/python3 snapshot.py --with-pinnacle; /usr/bin/python3 cloud_sync.py; /usr/bin/python3 market_only.py scan; /usr/bin/python3 stale_scan.py >/dev/null; /usr/bin/python3 status.py --alert >/dev/null; [ $(( 10#$(date +%M) % 30 )) -lt 2 ] &amp;&amp; /usr/bin/python3 market_only.py settle; true</string></array>
+  <key>EnvironmentVariables</key><dict><key>PATH</key><string>/usr/local/bin:/usr/bin:/bin</string></dict>
+  <key>RunAtLoad</key><true/>
+  <key>StartInterval</key><integer>120</integer>
+  <key>StandardOutPath</key><string>/Users/bryandabbelt/Projects/quant-betting/logs/snapshot.log</string>
+  <key>StandardErrorPath</key><string>/Users/bryandabbelt/Projects/quant-betting/logs/snapshot.log</string>
+</dict></plist>

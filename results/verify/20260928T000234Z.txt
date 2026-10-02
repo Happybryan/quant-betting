@@ -1,0 +1,63 @@
+VERIFY_v2.0 run 2026-09-28T00:02:34+00:00 | model PP_PROP_v0.2 | data DATA_v1.2 | exec EXEC_v1.0
+
+==========================================================================================
+Adam Trautman | receptions 0.5 MORE
+  [ ] Exact PrizePicks line confirmed          Adam Trautman receptions 0.5 MORE (from your message, not a slip)
+  [ ] Line type standard (not goblin/demon)    needs slip screenshot
+  [ ] Actual payout structure                  AWAITING SLIP VERIFICATION
+  [x] Data collector healthy                   pinnacle last ok 1m ago (cadence 2m)
+  [x] Event not started                        starts 2026-09-28T00:20:00Z (0.3h)
+  [x] Current price refresh                    Pinnacle + Kalshi fetched live at 2026-09-28T00:02:34+00:00 (this run)
+  [x] Pinnacle price + vig removed             line 0.5 O -194/U +158 raw 0.660/0.388 (overround 0.047) -> no-vig MORE 0.630 (method range low 0.630)
+  [x] Kalshi exchange price                    Adam Trautman: 1+ receptions bid 0.62/ask 0.63 vol 164 -> MORE mid 0.625 (conservative 0.620)
+  [x] Line consensus                           PrizePicks 0.5, Pinnacle 0.5 | all agree | DK line unavailable
+  [x] Market consensus                         2 priced source(s): consensus 0.627, conservative 0.620
+  [x] Market quality / limits                  MEDIUM: Pinnacle limit $1000, Kalshi volume 164, 2 priced sources
+  [x] Injury status (ESPN)                     Adam Trautman: not on injury report
+  [!] Relevant teammate injuries               Marvin Mims Jr. WR Out; Sam Ehlinger QB Out; Lil'Jordan Humphrey WR Out
+  [x] Weather / venue                          Empower Field at Mile High: 80F, gust 9 mph, precip 49%
+  [!] Starter status                           PROXY only: last game 2026 wk1 3 tgt, 0 car. Official NFL inactives post ~90 min before kickoff
+  [x] Game environment                         Los Angeles Rams @ Denver Broncos: total 44.0, Denver Broncos spread +1.0, implied team total 21.5
+  [ ] Environment model (team total)           no validated model for this stat yet
+  [!] Statistical model (player history)       MORE 0.875 vs market 0.627 (+24.7pp); lambda 2.08, 12 games, raw 1.83/game, prior 2.57, k=6 [STAT_v0.1 per game, NO matchup adjustment]
+  [!] Market movement (Pinnacle, our collector) first seen 14:41Z MORE 0.629 -> now 0.630 (+0.1pp, +0.01pp/h, largest step +0.1pp by 15:09Z) | UNOBSERVED collector gaps: 15:09-18:50Z; 19:10-20:19Z; 20:19-23:06Z
+  [ ] Stale-line check                         PrizePicks line timestamp not observable; compare against a fresh board just before entry
+  BEAR CASE: teammate injuries: Marvin Mims Jr. WR Out; Sam Ehlinger QB Out; Lil'Jordan Humphrey WR Out; Statistical model (player history) disagrees with market by +24.7pp; find out why before trusting either
+
+==========================================================================================
+ENTRY: correlation, sensitivity, stress test
+  Correlation: all legs in different games: independence assumed (shared weather/news ignored)
+  Payout: HYPOTHETICAL 3x - AWAITING SLIP VERIFICATION, not a final EV. Break-even joint 0.333, per leg 0.333
+  scenario                     legs                          joint      EV
+  consensus                    0.627                         0.627  +88.2%
+  conservative (worst source)  0.620                         0.620  +86.0%
+  consensus -2pp per leg       0.607                         0.607  +82.2%
+  consensus -4pp per leg       0.587                         0.587  +76.2%
+  consensus -6pp per leg       0.567                         0.567  +70.2%
+  Robustness: ROBUST to a 4pp per-leg overestimate
+
+PRE-BET SNAPSHOT #3 saved (sha256 3f8b469c9becbe53...), results/prebet/00003_3f8b469c9bec.json
+
+PRE-BET GATE: Adam Trautman receptions 0.5 MORE   DATA QUALITY B   LEVEL C - INTERESTING (NO MONEY): unresolved manual checks
+  ✗ MARKET VERIFIED
+  ✗ PAYOUT VERIFIED
+  ✓ MULTI-BOOK CHECK
+  ✓ NO-VIG CALCULATION
+  ✗ NEWS CHECK
+  ✗ STARTER/ROLE CHECK
+  ✓ WEATHER CHECK
+  ✓ GAME-ENVIRONMENT CHECK
+  ✗ STATISTICAL MODEL (team total)
+  ✓ MARKET MODEL
+  ✗ HISTORICAL MODEL (player)
+  ✗ MARKET MOVEMENT CHECK
+  ✓ CURRENT PRICE REFRESH
+  ✓ DATA COLLECTOR HEALTHY
+  ✓ CORRELATION CHECK
+  ✗ BEAR CASE
+  ✓ SENSITIVITY ANALYSIS
+  ✓ PRE-BET SNAPSHOT SAVED
+
+==========================================================================================
+NO OFFICIAL SLIP. LEVEL C - INTERESTING (NO MONEY): unresolved manual checks | no --stake given
+Legend: [x] ok  [!] warning  [X] fail  [ ] manual/unresolved

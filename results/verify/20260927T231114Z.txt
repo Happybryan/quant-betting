@@ -1,0 +1,108 @@
+VERIFY_v2.0 run 2026-09-27T23:11:14+00:00 | model PP_PROP_v0.2 | data DATA_v1.1 | exec EXEC_v1.0
+
+==========================================================================================
+Jalen Hurts | pass tds 1.5 MORE
+  [ ] Exact PrizePicks line confirmed          Jalen Hurts pass tds 1.5 MORE (from your message, not a slip)
+  [ ] Line type standard (not goblin/demon)    needs slip screenshot
+  [ ] Actual payout structure                  AWAITING SLIP VERIFICATION
+  [x] Data collector healthy                   kalshi_prop last ok 0m ago (cadence 5m), pinnacle last ok 0m ago (cadence 5m)
+  [x] Event not started                        starts 2026-09-29T00:15:00Z (25.1h)
+  [x] Current price refresh                    Pinnacle + Kalshi fetched live at 2026-09-27T23:11:14+00:00 (this run)
+  [x] Pinnacle price + vig removed             line 1.5 O +135/U -171 raw 0.426/0.631 (overround 0.057) -> no-vig MORE 0.403 (method range low 0.394)
+  [x] Kalshi exchange price                    Jalen Hurts: 2+ passing touchdowns bid 0.40/ask 0.41 vol 1142 -> MORE mid 0.405 (conservative 0.400)
+  [x] Line consensus                           PrizePicks 1.5, Pinnacle 1.5, DraftKings 1.5 | all agree | DK prices not exposed, line only
+  [x] Market consensus                         2 priced source(s): consensus 0.404, conservative 0.394
+  [x] Market quality / limits                  MEDIUM: Pinnacle limit $500, Kalshi volume 1142, 2 priced sources
+  [x] Injury status (ESPN)                     Jalen Hurts: not on injury report
+  [!] Relevant teammate injuries               Fred Johnson OT Out; Hollywood Brown WR Out; Dallas Goedert TE Out
+  [x] Weather / venue                          Soldier Field: 64F, gust 10 mph, precip 0%
+  [!] Starter status                           PROXY only: last game 2026 wk2 37 att. Official NFL inactives post ~90 min before kickoff
+  [x] Game environment                         Philadelphia Eagles @ Chicago Bears: total 41.5, Philadelphia Eagles spread -3.5, implied team total 22.5
+  [x] Environment model (team total)           MORE 0.428 vs market 0.404 (+2.4pp); lambda 1.46 (league pass TDs/pt 0.0648)
+  [!] Statistical model (player history)       MORE 0.479 vs market 0.404 (+7.6pp); lambda 1.61, 17 games, his TDs/implied pt 0.0738 (league 0.0658) x 22.5 pts, k=6 [STAT_v0.2 per implied point]
+  [!] Market movement (Pinnacle, our collector) first seen 14:41Z MORE 0.403 -> now 0.403 (+0.0pp, +0.00pp/h) | UNOBSERVED collector gaps: 15:09-18:50Z; 19:10-20:19Z; 20:19-23:06Z
+  [x] Market movement (DraftKings line)        open 1.5 -> current 1.5 (updated 2026-09-23T22:26Z)
+  [ ] Stale-line check                         PrizePicks line timestamp not observable; compare against a fresh board just before entry
+  BEAR CASE: teammate injuries: Fred Johnson OT Out; Hollywood Brown WR Out; Dallas Goedert TE Out; Statistical model (player history) disagrees with market by +7.6pp; find out why before trusting either
+
+==========================================================================================
+DeVonta Smith | receptions 5.5 LESS
+  [ ] Exact PrizePicks line confirmed          DeVonta Smith receptions 5.5 LESS (from your message, not a slip)
+  [ ] Line type standard (not goblin/demon)    needs slip screenshot
+  [ ] Actual payout structure                  AWAITING SLIP VERIFICATION
+  [x] Data collector healthy                   kalshi_prop last ok 0m ago (cadence 5m), pinnacle last ok 0m ago (cadence 5m)
+  [x] Event not started                        starts 2026-09-29T00:15:00Z (25.1h)
+  [x] Current price refresh                    Pinnacle + Kalshi fetched live at 2026-09-27T23:11:19+00:00 (this run)
+  [x] Pinnacle price + vig removed             line 5.5 O -108/U -116 raw 0.519/0.537 (overround 0.056) -> no-vig LESS 0.508 (method range low 0.508)
+  [x] Kalshi exchange price                    DeVonta Smith: 6+ receptions bid 0.49/ask 0.50 vol 258 -> LESS mid 0.505 (conservative 0.500)
+  [x] Line consensus                           PrizePicks 5.5, Pinnacle 5.5 | all agree | DK line unavailable
+  [x] Market consensus                         2 priced source(s): consensus 0.507, conservative 0.500
+  [x] Market quality / limits                  MEDIUM: Pinnacle limit $500, Kalshi volume 258, 2 priced sources
+  [x] Injury status (ESPN)                     DeVonta Smith: not on injury report
+  [!] Relevant teammate injuries               Fred Johnson OT Out; Hollywood Brown WR Out; Dallas Goedert TE Out
+  [x] Weather / venue                          Soldier Field: 64F, gust 10 mph, precip 0%
+  [!] Starter status                           PROXY only: last game 2026 wk2 0 att. Official NFL inactives post ~90 min before kickoff
+  [x] Game environment                         Philadelphia Eagles @ Chicago Bears: total 41.5, Philadelphia Eagles spread -3.5, implied team total 22.5
+  [ ] Environment model (team total)           no validated model for this stat yet
+  [!] Statistical model (player history)       LESS 0.728 vs market 0.507 (+22.1pp); lambda 4.35, 17 games, raw 4.88/game, prior 2.86, k=6 [STAT_v0.1 per game, NO matchup adjustment]
+  [!] Market movement (Pinnacle, our collector) first seen 14:41Z LESS 0.508 -> now 0.508 (+0.0pp, +0.00pp/h) | UNOBSERVED collector gaps: 15:09-18:50Z; 19:10-20:19Z; 20:19-23:06Z
+  [ ] Stale-line check                         PrizePicks line timestamp not observable; compare against a fresh board just before entry
+  BEAR CASE: teammate injuries: Fred Johnson OT Out; Hollywood Brown WR Out; Dallas Goedert TE Out; Statistical model (player history) disagrees with market by +22.1pp; find out why before trusting either
+
+==========================================================================================
+ENTRY: correlation, sensitivity, stress test
+  Correlation: SAME GAME legs present: joint probability NOT the product (rows below are reference only)
+  Payout: HYPOTHETICAL 3x - AWAITING SLIP VERIFICATION, not a final EV. Break-even joint 0.333, per leg 0.577
+  scenario                     legs                          joint      EV
+  consensus                    0.404 0.507                   0.205  -38.6%
+  conservative (worst source)  0.394 0.500                   0.197  -40.8%
+  consensus -2pp per leg       0.384 0.487                   0.187  -43.9%
+  consensus -4pp per leg       0.364 0.467                   0.170  -49.1%
+  consensus -6pp per leg       0.344 0.447                   0.154  -53.9%
+  Robustness: FRAGILE (EV < 0 if each leg is 4pp too high)
+
+PRE-BET SNAPSHOT #1 saved (sha256 01618bc5e2f550b7...), results/prebet/00001_01618bc5e2f5.json
+
+PRE-BET GATE: Jalen Hurts pass tds 1.5 MORE   DATA QUALITY B   REJECT
+  ✗ MARKET VERIFIED
+  ✗ PAYOUT VERIFIED
+  ✓ MULTI-BOOK CHECK
+  ✓ NO-VIG CALCULATION
+  ✗ NEWS CHECK
+  ✗ STARTER/ROLE CHECK
+  ✓ WEATHER CHECK
+  ✓ GAME-ENVIRONMENT CHECK
+  ✓ STATISTICAL MODEL (team total)
+  ✓ MARKET MODEL
+  ✗ HISTORICAL MODEL (player)
+  ✗ MARKET MOVEMENT CHECK
+  ✓ CURRENT PRICE REFRESH
+  ✓ DATA COLLECTOR HEALTHY
+  ✗ CORRELATION CHECK
+  ✗ BEAR CASE
+  ✗ SENSITIVITY ANALYSIS
+  ✓ PRE-BET SNAPSHOT SAVED
+
+PRE-BET GATE: DeVonta Smith receptions 5.5 LESS   DATA QUALITY B   REJECT
+  ✗ MARKET VERIFIED
+  ✗ PAYOUT VERIFIED
+  ✓ MULTI-BOOK CHECK
+  ✓ NO-VIG CALCULATION
+  ✗ NEWS CHECK
+  ✗ STARTER/ROLE CHECK
+  ✓ WEATHER CHECK
+  ✓ GAME-ENVIRONMENT CHECK
+  ✗ STATISTICAL MODEL (team total)
+  ✓ MARKET MODEL
+  ✗ HISTORICAL MODEL (player)
+  ✗ MARKET MOVEMENT CHECK
+  ✓ CURRENT PRICE REFRESH
+  ✓ DATA COLLECTOR HEALTHY
+  ✗ CORRELATION CHECK
+  ✗ BEAR CASE
+  ✗ SENSITIVITY ANALYSIS
+  ✓ PRE-BET SNAPSHOT SAVED
+
+==========================================================================================
+NO OFFICIAL SLIP. REJECT | no --stake given
+Legend: [x] ok  [!] warning  [X] fail  [ ] manual/unresolved

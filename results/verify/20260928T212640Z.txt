@@ -1,0 +1,51 @@
+VERIFY_v2.1 run 2026-09-28T21:26:40+00:00 | model PP_PROP_v0.2 | data DATA_v1.3 | exec EXEC_v1.0
+
+==========================================================================================
+Case Keenum | pass tds 0.5 MORE
+  [ ] Exact PrizePicks line confirmed          Case Keenum pass tds 0.5 MORE (from your message, not a slip)
+  [ ] Line type standard (not goblin/demon)    needs slip screenshot
+  [x] Actual payout structure                  power 3.0x
+  [x] Data collector healthy                   pinnacle_prop last ok 1m ago (cadence 5m), pinnacle last ok 1m ago (cadence 5m)
+  [x] Event not started                        starts 2026-09-29T00:15:00Z (2.8h)
+  [x] Current price refresh                    Pinnacle + Kalshi fetched live at 2026-09-28T21:26:40+00:00 (this run)
+  [x] Pinnacle price + vig removed             line 0.5 O -212/U +171 raw 0.679/0.369 (overround 0.048) -> no-vig MORE 0.648 (method range low 0.648)
+  [x] Kalshi exchange price                    Case Keenum: 1+ passing touchdowns bid 0.65/ask 0.66 vol 3670 -> MORE mid 0.655 (conservative 0.650)
+  [x] Line consensus                           PrizePicks 0.5, Pinnacle 0.5 | all agree | DK line unavailable
+  [x] Market consensus                         2 priced source(s): consensus 0.652, conservative 0.648
+  [x] Market quality / limits                  MEDIUM: Pinnacle limit $2500, Kalshi volume 3670, 2 priced sources
+  [ ] Injury status (ESPN)                     ESPN event not found
+  [ ] Weather / venue                          ESPN event not found
+  [!] Starter status                           PROXY only: last game n/a. Official NFL inactives post ~90 min before kickoff
+  [ ] Game environment                         could not derive implied team total
+  [ ] Environment model (team total)           no validated model for this stat yet
+  [ ] Statistical model (player history)       no validated model for this stat yet
+  [!] Market movement (Pinnacle, our collector) first seen 00:48Z MORE 0.653 -> now 0.648 (-0.5pp, -0.03pp/h, largest step -0.3pp by 13:04Z) | UNOBSERVED collector gaps: 00:58-01:18Z; 01:28-01:48Z; 01:58-02:18Z; 02:28-02:48Z; 02:58-03:18Z; 03:28-03:48Z; 03:58-04:18Z; 04:28-04:48Z; 04:58-05:18Z; 05:28-05:48Z; 05:58-06:18Z; 06:28-06:48Z; 06:58-07:18Z; 08:28-08:48Z; 08:59-09:18Z; 09:29-09:48Z; 10:28-10:48Z; 10:58-11:18Z; 11:29-11:48Z; 11:58-12:15Z; 20:23-20:40Z
+  [ ] Stale-line check                         PrizePicks line timestamp not observable; compare against a fresh board just before entry
+  BEAR CASE: edge vs a coin-flip line is large (15pp). Confirm this is a standard pick with LESS available
+
+==========================================================================================
+D'Andre Swift | receptions 2.5 LESS
+  [ ] Exact PrizePicks line confirmed          D'Andre Swift receptions 2.5 LESS (from your message, not a slip)
+  [ ] Line type standard (not goblin/demon)    needs slip screenshot
+  [x] Actual payout structure                  power 3.0x
+  [x] Data collector healthy                   pinnacle_prop last ok 1m ago (cadence 5m), pinnacle last ok 1m ago (cadence 5m)
+  [x] Event not started                        starts 2026-09-29T00:15:00Z (2.8h)
+  [x] Current price refresh                    Pinnacle + Kalshi fetched live at 2026-09-28T21:26:47+00:00 (this run)
+  [x] Pinnacle price + vig removed             line 2.5 O +139/U -170 raw 0.418/0.630 (overround 0.048) -> no-vig LESS 0.601 (method range low 0.601)
+  [x] Kalshi exchange price                    D'Andre Swift: 3+ receptions bid 0.38/ask 0.39 vol 22795 -> LESS mid 0.615 (conservative 0.610)
+  [x] Line consensus                           PrizePicks 2.5, Pinnacle 2.5 | all agree | DK line unavailable
+  [x] Market consensus                         2 priced source(s): consensus 0.608, conservative 0.601
+  [x] Market quality / limits                  HIGH: Pinnacle limit $2500, Kalshi volume 22795, 2 priced sources
+  [x] Injury status (ESPN)                     D'Andre Swift: not on injury report
+  [!] Relevant teammate injuries               Caleb Williams QB Out
+  [x] Weather / venue                          Soldier Field: 64F, gust 7 mph, precip 0%
+  [!] Starter status                           PROXY only: last game 2026 wk2 5 tgt, 16 car. Official NFL inactives post ~90 min before kickoff
+  [x] Game environment                         Philadelphia Eagles @ Chicago Bears: total 41.5, Chicago Bears spread +3.5, implied team total 19.0
+  [ ] Environment model (team total)           no validated model for this stat yet
+  [ ] Statistical model (player history)       no validated model for this stat yet
+  [!] Market movement (Pinnacle, our collector) first seen 14:41Z LESS 0.448 -> now 0.601 (+15.3pp, +0.50pp/h, largest step +17.2pp by 14:54Z) | UNOBSERVED collector gaps: 15:09-18:50Z; 19:10-20:19Z; 20:19-23:06Z; 00:58-01:18Z; 01:28-01:48Z; 01:58-02:18Z; 02:28-02:48Z; 02:58-03:18Z; 03:28-03:48Z; 03:58-04:18Z; 04:28-04:48Z; 04:58-05:18Z; 05:28-05:48Z; 05:58-06:18Z; 06:28-06:48Z; 06:58-07:18Z; 08:28-08:48Z; 08:59-09:18Z; 09:29-09:48Z; 10:28-10:48Z; 10:58-11:18Z; 11:29-11:48Z; 11:58-12:15Z; 20:23-20:40Z
+  [ ] Stale-line check                         PrizePicks line timestamp not observable; compare against a fresh board just before entry
+  BEAR CASE: teammate injuries: Caleb Williams QB Out
+
+==========================================================================================
+ENTRY: correlation, sensitivity, stress test

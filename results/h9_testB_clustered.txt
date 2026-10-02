@@ -1,0 +1,5 @@
+H9 TEST B, GAME-CLUSTERED (cluster = tip-off time), audit re-check
+  AST 9230 markets / 301 tip-offs | blend-vs-market logloss -0.0064 [-0.0088, -0.0042] ADDS INFO | betting ROI -8.2% [-14.1, -1.6] over 297 tip-offs
+  PTS 11982 markets / 302 tip-offs | blend-vs-market logloss -0.0005 [-0.0020, +0.0010] no | betting ROI -7.6% [-12.3, -3.1] over 302 tip-offs
+  REB 11452 markets / 301 tip-offs | blend-vs-market logloss -0.0052 [-0.0072, -0.0030] ADDS INFO | betting ROI -5.2% [-10.3, +0.5] over 298 tip-offs
+  TPM 7295 markets / 291 tip-offs | blend-vs-market logloss -0.0029 [-0.0048, -0.0010] ADDS INFO | betting ROI -2.3% [-9.8, +6.1] over 275 tip-offs

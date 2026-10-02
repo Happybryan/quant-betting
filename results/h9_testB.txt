@@ -1,0 +1,5 @@
+H9 TEST B | NBA_PROP_v0.1 = C1 | usable markets 39959 | excluded {'no pre-tip candle': 575, 'not yes/no': 1671, 'no model prediction (player/date)': 103}
+  AST n=9230 | market 0.4497 model 0.4549 blend diff -0.0064 [-0.0079, -0.0050] | bets 3326 ROI -8.2% [-13.1, -3.3] halves -15.7/-0.8% -> not market-validated
+  PTS n=11982 | market 0.4810 model 0.5023 blend diff -0.0005 [-0.0017, +0.0006] | bets 5375 ROI -7.6% [-11.4, -3.7] halves -10.0/-5.1% -> not market-validated
+  REB n=11452 | market 0.5010 model 0.5085 blend diff -0.0052 [-0.0064, -0.0038] | bets 4804 ROI -5.2% [-9.3, -1.1] halves -11.9/+1.6% -> not market-validated
+  TPM n=7295 | market 0.4656 model 0.4708 blend diff -0.0029 [-0.0041, -0.0018] | bets 2359 ROI -2.3% [-8.7, +4.0] halves -7.6/+3.0% -> not market-validated

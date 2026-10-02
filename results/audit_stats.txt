@@ -1,0 +1,14 @@
+H4: contract-sides 6551 | events 3310 | dates 163 | series 6  (CIs in the published result were already event-clustered)
+H4b: contract-sides 13737 | events 6883 | dates 362 | series 6  (CIs in the published result were already event-clustered)
+
+H8: prop markets 984 | rung-2 244 | distinct kickoff slots 61 | rungs per player-game avg 1.1
+  M1 blend-vs-market log loss diff -0.0023 | naive CI [-0.0075, +0.0028] | game-clustered CI [-0.0070, +0.0026]
+  M1 betting ROI +3.5% | bets 167 in 38 game slots | game-clustered CI [-29.3, +45.7]
+  M2 blend-vs-market log loss diff +0.0003 | naive CI [-0.0055, +0.0059] | game-clustered CI [-0.0045, +0.0048]
+  M2 betting ROI -12.3% | bets 201 in 46 game slots | game-clustered CI [-41.4, +18.8]
+
+H9 Test A: player-games 9095 | games 429 | players 492 | dates 92 | prop observations 36380 (4 stats per player-game)
+  PTS model-vs-B0 log loss diff -0.0719 | naive CI [-0.0832, -0.0619] | game-clustered CI [-0.0851, -0.0602] | design effect ~1.4
+  REB model-vs-B0 log loss diff -0.0221 | naive CI [-0.0306, -0.0130] | game-clustered CI [-0.0323, -0.0126] | design effect ~1.3
+  AST model-vs-B0 log loss diff -0.0252 | naive CI [-0.0340, -0.0164] | game-clustered CI [-0.0348, -0.0163] | design effect ~1.1
+  TPM model-vs-B0 log loss diff +0.0124 | naive CI [+0.0022, +0.0211] | game-clustered CI [+0.0017, +0.0215] | design effect ~1.1

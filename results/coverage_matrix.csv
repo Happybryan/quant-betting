@@ -1,0 +1,339 @@
+sport,league,kalshi_series,kalshi_open_events,prizepicks,pinnacle,pinnacle_matched,secondary,historical,live,rules,matcher_tested,market_only_ready,player_model,model_validated,status
+Baseball,KBO Game,KXKBOGAME,10,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,yes,no,none,no,DISCOVERED
+Baseball,Professional Baseball Game,KXMLBGAME,7,unknown (API blocked),MLB,2,not investigated,Kalshi yes; Pinnacle since 2026-09-27,yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Baseball,Japan NPB Game,KXNPBGAME,10,unknown (API blocked),Nippon Professional Baseball,2,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Basketball,Adriatic ABA Game,KXABAGAME,8,unknown (API blocked),ABA - Adriatic League,3,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Basketball,Spain Liga ACB Game,KXACBGAME,8,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,yes,no,none,no,DISCOVERED
+Basketball,Austria BSL Game,KXAUTBSLGAME,9,unknown (API blocked),Austria - SuperLiga,3,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Basketball,Bundesliga Basketball Game,KXBBLGAME,7,unknown (API blocked),Germany - Bundesliga,1,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Basketball,Italy Serie A2 Game,KXBBSERIEA2GAME,10,unknown (API blocked),Italy - Serie A2,2,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Basketball,Italy Serie A Game,KXBBSERIEAGAME,5,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,yes,no,none,no,DISCOVERED
+Basketball,Turkey BSL Game,KXBSLGAME,8,unknown (API blocked),Turkey - Super League,3,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Basketball,Czech NBL Game,KXCZENBLGAME,6,unknown (API blocked),Czech Republic - NBL,1,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Basketball,EuroCup Basketball Game,KXEUROCUPGAME,1,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,yes,no,none,no,DISCOVERED
+Basketball,Euroleague Game,KXEUROLEAGUEGAME,9,unknown (API blocked),Europe - Euroleague,4,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Basketball,LKL Lithuania Game,KXLKLGAME,5,unknown (API blocked),Lithuania - Lietuvos Krepsinio Lyga,3,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Basketball,LNB Elite 2 Game,KXLNBELITE2GAME,10,unknown (API blocked),France - Championnat Pro B,6,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Basketball,LNB Elite Game,KXLNBELITEGAME,6,unknown (API blocked),France - Championnat Pro A,1,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Basketball,LNBP Basketball Game,KXLNBPGAME,14,unknown (API blocked),Mexico - Liga Nacional de Baloncesto Profesional,6,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Basketball,NBA Game,KXNBAGAME,16,unknown (API blocked),NBA,3,not investigated,Kalshi yes; Pinnacle since 2026-09-27,yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Basketball,Australia NBL Game,KXNBLGAME,6,unknown (API blocked),Australia - NBL,2,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Basketball,Croatia Premijer Liga Game,KXPHKLGAME,5,unknown (API blocked),Croatia - A1 Liga,4,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Basketball,Slovakia SBL Game,KXSBLGAME,5,unknown (API blocked),Slovakia - Extraliga,1,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Basketball,Slovenia 1. SKL Game,KXSKLGAME,3,unknown (API blocked),Slovenia - 1. SKL,2,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Basketball,England Super League Basketball Game,KXSLBGAME,4,unknown (API blocked),British - SLB,4,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Basketball,Russia VTB United Game,KXVTBGAME,4,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,yes,no,none,no,DISCOVERED
+Basketball,Women's Pro Basketball Game,KXWNBAGAME,2,unknown (API blocked),WNBA,2,not investigated,Kalshi yes; Pinnacle since 2026-09-27,yes,NEAR_EQUIVALENT,yes,yes,none,no,MARKET-ONLY PAPER READY
+Cricket,Men's ODI Cricket Match,KXODIMATCH,2,unknown (API blocked),Cricket World Cup League 2,1,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NOT_COMPARABLE,no,no,none,no,MATCHING READY
+Cricket,Men's T20 Cricket Match,KXT20MATCH,12,unknown (API blocked),South Africa - CSA T20 Challenge,2,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NOT_COMPARABLE,no,no,none,no,INGESTION READY
+Cricket,Women's ODI Cricket Match,KXWODIMATCH,3,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,no,no,none,no,DISCOVERED
+Cricket,Women's T20 Match,KXWT20MATCH,6,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,no,no,none,no,DISCOVERED
+Darts,Darts Match,KXDARTSMATCH,41,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,no,no,none,no,DISCOVERED
+Esports,Counter-Strike 2 Game,KXCS2GAME,87,unknown (API blocked),CS2 - United21,1,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Esports,Dota 2 Game,KXDOTA2GAME,12,unknown (API blocked),Dota 2 - BLAST Slam,1,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Esports,League of Legends Game,KXLOLGAME,14,unknown (API blocked),League of Legends - Demacia Cup,5,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Esports,Overwatch Game,KXOWGAME,12,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,yes,no,none,no,DISCOVERED
+Esports,R6 Game,KXR6GAME,15,unknown (API blocked),Rainbow Six - North America League,5,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Esports,Valorant game winner,KXVALORANTGAME,6,unknown (API blocked),Valorant - Champions,2,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Football,CFL Game,KXCFLGAME,4,unknown (API blocked),Canadian Football,3,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Football,College Football Game,KXNCAAFGAME,222,unknown (API blocked),NCAA,33,not investigated,Kalshi yes; Pinnacle since 2026-09-27,yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Football,NFL Game,KXNFLGAME,31,unknown (API blocked),NFL,14,not investigated,Kalshi yes; Pinnacle since 2026-09-27,yes,NEAR_EQUIVALENT,yes,no,"NFL pass TDs (v0.2, unvalidated)",no,INGESTION READY
+Hockey,AHL Game,KXAHLGAME,14,unknown (API blocked),USA - American Hockey League,12,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Hockey,DEL Game,KXDELGAME,7,unknown (API blocked),Germany - DEL,4,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Hockey,ELH Game,KXELHGAME,7,unknown (API blocked),Czech Republic - Extraliga,6,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Hockey,KHL Game,KXKHLGAME,12,unknown (API blocked),Russia - Kontinental Hockey League,5,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Hockey,Liiga Game,KXLIIGAGAME,7,unknown (API blocked),Finland - SM Liiga,6,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Hockey,NHL Game,KXNHLGAME,47,unknown (API blocked),NHL,8,not investigated,Kalshi yes; Pinnacle since 2026-09-27,yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Hockey,National League Game,KXNLGAME,11,unknown (API blocked),Switzerland - Nationalliga A,5,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Hockey,SHL Game,KXSHLGAME,13,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,yes,no,none,no,DISCOVERED
+Rugby,England Super League Rugby Match,KXRUGBYESLMATCH,1,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,no,no,none,no,DISCOVERED
+Rugby,Rugby French 14 Match,KXRUGBYFRA14MATCH,6,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,no,no,none,no,DISCOVERED
+Rugby,Rugby NRL Match,KXRUGBYNRLMATCH,1,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,no,no,none,no,DISCOVERED
+Soccer,AFC Champions League Game,KXAFCCLGAME,16,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,yes,no,none,no,DISCOVERED
+Soccer,AFCON Game Winner,KXAFCONGAME,1,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,yes,no,none,no,DISCOVERED
+Soccer,APF Division de Honor Game,KXAPFDDHGAME,4,unknown (API blocked),Paraguay - Division Profesional,4,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Soccer,Argentine Nacional B Game,KXARGNACBGAME,18,unknown (API blocked),Argentina - Primera B Nacional,6,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Soccer,Argentina Primera Division Game,KXARGPREMDIVGAME,13,unknown (API blocked),Argentina - Liga Pro,10,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Soccer,Brasileiro Serie B Game,KXBRASILEIROBGAME,20,unknown (API blocked),Brazil - Serie B,9,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Soccer,Brasileiro Serie C Game,KXBRASILEIROCGAME,4,unknown (API blocked),Brazil - Serie C,3,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Soccer,Brasileiro Serie A Game,KXBRASILEIROGAME,22,unknown (API blocked),Brazil - Serie A,12,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Soccer,Bundesliga Game,KXBUNDESLIGAGAME,9,unknown (API blocked),Germany - Bundesliga,8,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Soccer,Canadian Premier League,KXCANPLGAME,3,unknown (API blocked),Canada - Premier League,2,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Soccer,Chile Liga de Primera Game,KXCHLLDPGAME,1,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,yes,no,none,no,DISCOVERED
+Soccer,Club Friendlies,KXCLUBFGAME,1,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,yes,no,none,no,DISCOVERED
+Soccer,CONCACAF Nations League Game,KXCONCACAFNLGAME,37,unknown (API blocked),CONCACAF - Nations League A,6,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Soccer,Liga DIMAYOR Game,KXDIMAYORGAME,8,unknown (API blocked),Colombia - Primera A,7,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Soccer,Eerste Divisie Game,KXEERSTEDIVGAME,8,unknown (API blocked),Netherlands - Eerste Divisie,7,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Soccer,EFL League One Game,KXEFLL1GAME,9,unknown (API blocked),England - League 1,3,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Soccer,English National League Game,KXENGNLGAME,11,unknown (API blocked),England - National League,11,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Soccer,English Premier League Game,KXEPLGAME,10,unknown (API blocked),England - Premier League,10,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Soccer,Eredivisie Vrouwen Game,KXEREDIVISIEWGAME,5,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,yes,no,none,no,DISCOVERED
+Soccer,Ettan Game,KXETTANGAME,16,unknown (API blocked),Sweden - Division 1 Norra,6,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Soccer,England Women's Super League Game,KXEWSLGAME,7,unknown (API blocked),England - Women Super League,7,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Soccer,FIFA Women's Game,KXFIFAWGAME,16,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,yes,no,none,no,DISCOVERED
+Soccer,International Friendly Game,KXINTLFRIENDLYGAME,17,unknown (API blocked),International - Friendlies,7,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Soccer,Japan J2 League Game,KXJ2LEAGUEGAME,10,unknown (API blocked),Japan - J2 League,9,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Soccer,LaLiga 2 Game,KXLALIGA2GAME,11,unknown (API blocked),Spain - Segunda Division,10,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Soccer,La Liga Game,KXLALIGAGAME,10,unknown (API blocked),Spain - La Liga,10,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Soccer,Liga Expansion Game,KXLIGAEXPGAME,8,unknown (API blocked),Mexico - Liga de Expansión MX,8,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Soccer,Liga MX Game,KXLIGAMXGAME,9,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,yes,no,none,no,DISCOVERED
+Soccer,Ligue 1 Game,KXLIGUE1GAME,9,unknown (API blocked),France - Ligue 1,8,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Soccer,Major League Soccer Game,KXMLSGAME,32,unknown (API blocked),USA - Major League Soccer,2,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Soccer,NWSL Game,KXNWSLGAME,8,unknown (API blocked),USA - National Womens Soccer League,8,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Soccer,Serie A Game,KXSERIEAGAME,10,unknown (API blocked),Italy - Serie A,10,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Soccer,Serie A Femminile Game,KXSERIEAWGAME,6,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,yes,no,none,no,DISCOVERED
+Soccer,Serie C Game,KXSERIECGAME,27,unknown (API blocked),Italy - Serie C Group C,8,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Soccer,Slovakian 2. Liga Game,KXSVK2LGAME,8,unknown (API blocked),Slovakia - 2. Liga,6,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Soccer,Tweede Divisie Game,KXTWEEDEDIVGAME,9,unknown (API blocked),Netherlands - Eerste Divisie,1,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Soccer,UEFA Champions League Game,KXUCLGAME,18,unknown (API blocked),UEFA - Champions League,16,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Soccer,Champions League Women's Game,KXUCLWGAME,2,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,yes,no,none,no,DISCOVERED
+Soccer,UEFA Conference League Game,KXUECLGAME,18,unknown (API blocked),UEFA - Conference League,11,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Soccer,UEFA Nations League Game,KXUEFANLGAME,51,unknown (API blocked),UEFA - Nations League A,8,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,INGESTION READY
+Soccer,UEFA Europa League Game,KXUELGAME,18,unknown (API blocked),UEFA - Europa League,13,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Soccer,Uruguay Primera Division Game,KXURYPDGAME,8,unknown (API blocked),Uruguay - Primera Division,6,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Soccer,USL Championship Game,KXUSLGAME,10,unknown (API blocked),USA - USL Championship,10,not investigated,Kalshi yes; Pinnacle no (not collected),yes,NEAR_EQUIVALENT,yes,no,none,no,MATCHING READY
+Table Tennis,TT Elite Series Match,KXTTELITEMATCH,30,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,no,no,none,no,DISCOVERED
+Table Tennis,TT Star Series Match,KXTTSTARMATCH,2,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,no,no,none,no,DISCOVERED
+Tennis,Challenger ATP ,KXATPCHALLENGERMATCH,11,unknown (API blocked),ATP Challenger Jingshan - QF,2,not investigated,Kalshi yes; Pinnacle no (not collected),yes,MATERIAL_DIFFERENCE,yes,no,none,no,INGESTION READY
+Tennis,ATP Tennis Match,KXATPMATCH,12,unknown (API blocked),ATP Beijing - R16,1,not investigated,Kalshi yes; Pinnacle no (not collected),yes,MATERIAL_DIFFERENCE,yes,no,none,no,INGESTION READY
+Tennis,ITF Men's Match,KXITFMATCH,41,unknown (API blocked),ITF Men Baku - QF,2,not investigated,Kalshi yes; Pinnacle no (not collected),yes,MATERIAL_DIFFERENCE,yes,no,none,no,INGESTION READY
+Tennis,ITF Women's Match,KXITFWMATCH,38,unknown (API blocked),ITF Women Maanshan - QF,4,not investigated,Kalshi yes; Pinnacle no (not collected),yes,MATERIAL_DIFFERENCE,yes,no,none,no,INGESTION READY
+Tennis,Challenger WTA,KXWTACHALLENGERMATCH,5,unknown (API blocked),WTA 125k Jingshan - QF,4,not investigated,Kalshi yes; Pinnacle no (not collected),yes,MATERIAL_DIFFERENCE,yes,no,none,no,MATCHING READY
+Tennis,WTA Tennis Match,KXWTAMATCH,27,unknown (API blocked),WTA Beijing - R2,5,not investigated,Kalshi yes; Pinnacle no (not collected),yes,MATERIAL_DIFFERENCE,yes,no,none,no,INGESTION READY
+Unknown,Finland Korisliiga Game,KXKORISLIIGAGAME,6,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,no,no,none,no,DISCOVERED
+Unknown,Sweden SBL Game,KXSESBLGAME,4,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,no,no,none,no,DISCOVERED
+Volleyball,Women's College Volleyball Match,KXNCAAWVMATCH,46,unknown (API blocked),not found,0,not investigated,Kalshi yes; Pinnacle no (not collected),Kalshi only,-,no,no,none,no,DISCOVERED
+Tennis,ATP Beijing - Doubles,-,0,unknown (API blocked),ATP Beijing - Doubles,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Tennis,ATP Beijing - R1,-,0,unknown (API blocked),ATP Beijing - R1,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Tennis,ATP Challenger Bari - QF,-,0,unknown (API blocked),ATP Challenger Bari - QF,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Tennis,ATP Challenger Columbus - QF,-,0,unknown (API blocked),ATP Challenger Columbus - QF,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Tennis,ATP Challenger Curitiba - QF,-,0,unknown (API blocked),ATP Challenger Curitiba - QF,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Tennis,ATP Challenger Curitiba - R16,-,0,unknown (API blocked),ATP Challenger Curitiba - R16,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Tennis,ATP Challenger Mouilleron-Le-Captif - QF,-,0,unknown (API blocked),ATP Challenger Mouilleron-Le-Captif - QF,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Tennis,ATP Challenger Porto - QF,-,0,unknown (API blocked),ATP Challenger Porto - QF,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Tennis,ATP Tokyo - Doubles,-,0,unknown (API blocked),ATP Tokyo - Doubles,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Tennis,ATP Tokyo - R16,-,0,unknown (API blocked),ATP Tokyo - R16,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Adriatic League Women,-,0,unknown (API blocked),Adriatic League Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Algeria - Super Division,-,0,unknown (API blocked),Algeria - Super Division,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Argentina - Cup,-,0,unknown (API blocked),Argentina - Cup,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Volleyball,Argentina - Division de Honor Women,-,0,unknown (API blocked),Argentina - Division de Honor Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Argentina - Liga Nacional,-,0,unknown (API blocked),Argentina - Liga Nacional,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Argentina - Liga Pro Reserves,-,0,unknown (API blocked),Argentina - Liga Pro Reserves,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Argentina - Primera Division Women,-,0,unknown (API blocked),Argentina - Primera Division Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Argentina - Reserve League,-,0,unknown (API blocked),Argentina - Reserve League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Volleyball,Argentina - Super Primera Women,-,0,unknown (API blocked),Argentina - Super Primera Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Volleyball,Asian Games,-,0,unknown (API blocked),Asian Games,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Asian Games - Women,-,0,unknown (API blocked),Asian Games - Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Asian Games U23,-,0,unknown (API blocked),Asian Games U23,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Australia - A League,-,0,unknown (API blocked),Australia - A League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Austria - 2. Liga,-,0,unknown (API blocked),Austria - 2. Liga,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Austria - Bundesliga,-,0,unknown (API blocked),Austria - Bundesliga,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Hockey,Austria - EHL,-,0,unknown (API blocked),Austria - EHL,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Hockey,Belarus - Extraleague,-,0,unknown (API blocked),Belarus - Extraleague,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Belgium - Division 1 Women,-,0,unknown (API blocked),Belgium - Division 1 Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Belgium - First Amateur Division,-,0,unknown (API blocked),Belgium - First Amateur Division,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Belgium - Pro League,-,0,unknown (API blocked),Belgium - Pro League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Belgium - Top Division 1,-,0,unknown (API blocked),Belgium - Top Division 1,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Bolivia - Cup,-,0,unknown (API blocked),Bolivia - Cup,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Boxing,Boxing Matches,-,0,unknown (API blocked),Boxing Matches,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Brazil - Campeonato Paulista,-,0,unknown (API blocked),Brazil - Campeonato Paulista,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Brazil - Cearense U20,-,0,unknown (API blocked),Brazil - Cearense U20,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Brazil - Copa Alagoas U20,-,0,unknown (API blocked),Brazil - Copa Alagoas U20,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Volleyball,Brazil - Mineiro,-,0,unknown (API blocked),Brazil - Mineiro,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Brazil - Piauiense Serie B,-,0,unknown (API blocked),Brazil - Piauiense Serie B,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Hockey,British - Elite League,-,0,unknown (API blocked),British - Elite League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,British - SLB Women,-,0,unknown (API blocked),British - SLB Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,CONCACAF - Nations League B,-,0,unknown (API blocked),CONCACAF - Nations League B,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,CONCACAF - Nations League C,-,0,unknown (API blocked),CONCACAF - Nations League C,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,CONMEBOL - Copa Libertadores,-,0,unknown (API blocked),CONMEBOL - Copa Libertadores,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,CONMEBOL - Copa Sudamericana,-,0,unknown (API blocked),CONMEBOL - Copa Sudamericana,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Esports,CS2 - CCT European Series 10,-,0,unknown (API blocked),CS2 - CCT European Series 10,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Esports,CS2 - CCT South America Series,-,0,unknown (API blocked),CS2 - CCT South America Series,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Esports,CS2 - CIS LAN Championship,-,0,unknown (API blocked),CS2 - CIS LAN Championship,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Esports,CS2 - FOX Legacy,-,0,unknown (API blocked),CS2 - FOX Legacy,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Esports,CS2 - STK Ranked,-,0,unknown (API blocked),CS2 - STK Ranked,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Hockey,Canada - Ontario Hockey League,-,0,unknown (API blocked),Canada - Ontario Hockey League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Hockey,Canada - Quebec Major Junior Hockey League,-,0,unknown (API blocked),Canada - Quebec Major Junior Hockey League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Hockey,Canada - Western Hockey League,-,0,unknown (API blocked),Canada - Western Hockey League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Chile - LNB,-,0,unknown (API blocked),Chile - LNB,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Chile - Primera B,-,0,unknown (API blocked),Chile - Primera B,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Chile - Primera Division,-,0,unknown (API blocked),Chile - Primera Division,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Chile - Tercera Division A,-,0,unknown (API blocked),Chile - Tercera Division A,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Baseball,Chinese Taipei - Professional League,-,0,unknown (API blocked),Chinese Taipei - Professional League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Colombia - Baloncesto Profesional Colombiano,-,0,unknown (API blocked),Colombia - Baloncesto Profesional Colombiano,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Colombia - Primera B,-,0,unknown (API blocked),Colombia - Primera B,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Costa Rica - Ascenso,-,0,unknown (API blocked),Costa Rica - Ascenso,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Croatia - Cup,-,0,unknown (API blocked),Croatia - Cup,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Czech Republic - 1. Liga,-,0,unknown (API blocked),Czech Republic - 1. Liga,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Hockey,Czech Republic - 1. Liga,-,0,unknown (API blocked),Czech Republic - 1. Liga,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Czech Republic - 3. Liga,-,0,unknown (API blocked),Czech Republic - 3. Liga,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Czech Republic - First Liga,-,0,unknown (API blocked),Czech Republic - First Liga,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Czech Republic - Liga 1 Women,-,0,unknown (API blocked),Czech Republic - Liga 1 Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Czech Republic - ZBL Women,-,0,unknown (API blocked),Czech Republic - ZBL Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Denmark - 2nd Division,-,0,unknown (API blocked),Denmark - 2nd Division,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Denmark - Basketligaen,-,0,unknown (API blocked),Denmark - Basketligaen,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Denmark - Kvindebasketligaen,-,0,unknown (API blocked),Denmark - Kvindebasketligaen,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Hockey,Denmark - Metal Ligaen,-,0,unknown (API blocked),Denmark - Metal Ligaen,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Denmark - Superliga,-,0,unknown (API blocked),Denmark - Superliga,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Dominican Republic - Torneo Baloncesto Superior,-,0,unknown (API blocked),Dominican Republic - Torneo Baloncesto Superior,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Ecuador - Serie B,-,0,unknown (API blocked),Ecuador - Serie B,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Egypt - 2nd Division A,-,0,unknown (API blocked),Egypt - 2nd Division A,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,El Salvador - Liga Mayor Women,-,0,unknown (API blocked),El Salvador - Liga Mayor Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,El Salvador - Primera Division,-,0,unknown (API blocked),El Salvador - Primera Division,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,El Salvador - Reserve League U20,-,0,unknown (API blocked),El Salvador - Reserve League U20,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,England - Championship,-,0,unknown (API blocked),England - Championship,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,England - EFL Cup,-,0,unknown (API blocked),England - EFL Cup,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,England - League 2,-,0,unknown (API blocked),England - League 2,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,England - Professional Development League U21,-,0,unknown (API blocked),England - Professional Development League U21,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Estonia - I Liiga,-,0,unknown (API blocked),Estonia - I Liiga,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Estonian - Latvian Basketball League,-,0,unknown (API blocked),Estonian - Latvian Basketball League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Hockey,Europe - Alps Hockey League,-,0,unknown (API blocked),Europe - Alps Hockey League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Europe - BNXT League,-,0,unknown (API blocked),Europe - BNXT League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Europe - Eurocup Qualification Women,-,0,unknown (API blocked),Europe - Eurocup Qualification Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,FIBA - Americas League Women,-,0,unknown (API blocked),FIBA - Americas League Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,FIFA - ASEAN Cup Division 1,-,0,unknown (API blocked),FIFA - ASEAN Cup Division 1,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Finland - Kakkonen,-,0,unknown (API blocked),Finland - Kakkonen,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Finland - Korisliiga,-,0,unknown (API blocked),Finland - Korisliiga,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Finland - Korisliiga Women,-,0,unknown (API blocked),Finland - Korisliiga Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Hockey,Finland - Mestis,-,0,unknown (API blocked),Finland - Mestis,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Hockey,Finland - Suomi Sarja U20,-,0,unknown (API blocked),Finland - Suomi Sarja U20,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Finland - Veikkausliiga,-,0,unknown (API blocked),Finland - Veikkausliiga,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,France - Ligue 2,-,0,unknown (API blocked),France - Ligue 2,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,France - Ligue 3,-,0,unknown (API blocked),France - Ligue 3,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,France - Ligue Féminine de Basketball,-,0,unknown (API blocked),France - Ligue Féminine de Basketball,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Hockey,France - Ligue Magnus,-,0,unknown (API blocked),France - Ligue Magnus,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,France - Nationale 1,-,0,unknown (API blocked),France - Nationale 1,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Georgia - Super League,-,0,unknown (API blocked),Georgia - Super League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Germany - Bundesliga 2,-,0,unknown (API blocked),Germany - Bundesliga 2,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Germany - Bundesliga Women,-,0,unknown (API blocked),Germany - Bundesliga Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Hockey,Germany - DEL 2,-,0,unknown (API blocked),Germany - DEL 2,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Germany - Pro A,-,0,unknown (API blocked),Germany - Pro A,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Germany - Regionalliga South West,-,0,unknown (API blocked),Germany - Regionalliga South West,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Germany - Regionalliga West,-,0,unknown (API blocked),Germany - Regionalliga West,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Greece - A1 Women,-,0,unknown (API blocked),Greece - A1 Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Greece - Elite League,-,0,unknown (API blocked),Greece - Elite League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Greece - Super League,-,0,unknown (API blocked),Greece - Super League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Greek Basket League,-,0,unknown (API blocked),Greek Basket League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Guatemala - Liga Nacional,-,0,unknown (API blocked),Guatemala - Liga Nacional,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Hungary - Nemzeti Bajnoksag I.A,-,0,unknown (API blocked),Hungary - Nemzeti Bajnoksag I.A,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Hungary - Nemzeti Bajnoksag I.A Women,-,0,unknown (API blocked),Hungary - Nemzeti Bajnoksag I.A Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Tennis,ITF Men Darwin - QF,-,0,unknown (API blocked),ITF Men Darwin - QF,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Tennis,ITF Men Fayetteville - R16,-,0,unknown (API blocked),ITF Men Fayetteville - R16,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Tennis,ITF Men Luan - QF,-,0,unknown (API blocked),ITF Men Luan - QF,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Tennis,ITF Men Monastir - QF,-,0,unknown (API blocked),ITF Men Monastir - QF,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Tennis,ITF Men Zaragoza - QF,-,0,unknown (API blocked),ITF Men Zaragoza - QF,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Tennis,ITF Women Templeton - R16,-,0,unknown (API blocked),ITF Women Templeton - R16,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Tennis,ITF Women Wagga Wagga - QF,-,0,unknown (API blocked),ITF Women Wagga Wagga - QF,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Iceland - Division 1,-,0,unknown (API blocked),Iceland - Division 1,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Iceland - Urvalsdeild Women,-,0,unknown (API blocked),Iceland - Urvalsdeild Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,International - Friendlies U19,-,0,unknown (API blocked),International - Friendlies U19,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,International - Friendlies U20,-,0,unknown (API blocked),International - Friendlies U20,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Ireland - Division 1,-,0,unknown (API blocked),Ireland - Division 1,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Ireland - Premier,-,0,unknown (API blocked),Ireland - Premier,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Israel - Liga Bet,-,0,unknown (API blocked),Israel - Liga Bet,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Italy - Lega A1 Women,-,0,unknown (API blocked),Italy - Lega A1 Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Italy - Serie A2 Women,-,0,unknown (API blocked),Italy - Serie A2 Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Italy - Serie B,-,0,unknown (API blocked),Italy - Serie B,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Italy - Serie C Group A,-,0,unknown (API blocked),Italy - Serie C Group A,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Italy - Serie C Group B,-,0,unknown (API blocked),Italy - Serie C Group B,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Japan - B.League Next,-,0,unknown (API blocked),Japan - B.League Next,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Japan - B.League One,-,0,unknown (API blocked),Japan - B.League One,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Japan - B.League Premier,-,0,unknown (API blocked),Japan - B.League Premier,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Japan - J3 League,-,0,unknown (API blocked),Japan - J3 League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Korea - U League,-,0,unknown (API blocked),Korea - U League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Korea Republic - K League Women,-,0,unknown (API blocked),Korea Republic - K League Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Korea Republic - K3 League,-,0,unknown (API blocked),Korea Republic - K3 League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Kosovo - Superliga,-,0,unknown (API blocked),Kosovo - Superliga,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Hockey,Latvia - Latvian Hockey League,-,0,unknown (API blocked),Latvia - Latvian Hockey League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Esports,League of Legends - CBLOL,-,0,unknown (API blocked),League of Legends - CBLOL,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Esports,League of Legends - CBLOL Promotion,-,0,unknown (API blocked),League of Legends - CBLOL Promotion,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Esports,League of Legends - EMEA Masters,-,0,unknown (API blocked),League of Legends - EMEA Masters,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Esports,League of Legends - LCS,-,0,unknown (API blocked),League of Legends - LCS,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Esports,League of Legends - World Star Challengers Invitational,-,0,unknown (API blocked),League of Legends - World Star Challengers Invitational,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Lithuania - National Basketball League,-,0,unknown (API blocked),Lithuania - National Basketball League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Mexico - Liga ABE,-,0,unknown (API blocked),Mexico - Liga ABE,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Mexico - Liga ABE Women,-,0,unknown (API blocked),Mexico - Liga ABE Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Mexico - Liga MX Women,-,0,unknown (API blocked),Mexico - Liga MX Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Esports,Mobile Legends - MLBB Continental Championships,-,0,unknown (API blocked),Mobile Legends - MLBB Continental Championships,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Esports,Mobile Legends - MPL Indonesia,-,0,unknown (API blocked),Mobile Legends - MPL Indonesia,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Esports,Mobile Legends - MPL Philippines,-,0,unknown (API blocked),Mobile Legends - MPL Philippines,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Morocco - Botola Pro,-,0,unknown (API blocked),Morocco - Botola Pro,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Football,NCAA FCS,-,0,unknown (API blocked),NCAA FCS,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Netherlands - Eredivisie,-,0,unknown (API blocked),Netherlands - Eredivisie,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Netherlands - Eredivisie Women,-,0,unknown (API blocked),Netherlands - Eredivisie Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,New Zealand - NBL Women,-,0,unknown (API blocked),New Zealand - NBL Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Northern Ireland - Premiership,-,0,unknown (API blocked),Northern Ireland - Premiership,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Hockey,Norway - 1st Division,-,0,unknown (API blocked),Norway - 1st Division,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Norway - 1st Division,-,0,unknown (API blocked),Norway - 1st Division,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Norway - Eliteserien,-,0,unknown (API blocked),Norway - Eliteserien,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Cricket,One Day International,-,0,unknown (API blocked),One Day International,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+MMA,PFL,-,0,unknown (API blocked),PFL,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Panama - Liga Prom,-,0,unknown (API blocked),Panama - Liga Prom,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Panama - Primera Division,-,0,unknown (API blocked),Panama - Primera Division,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Paraguay - Cup,-,0,unknown (API blocked),Paraguay - Cup,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Peru - League Cup,-,0,unknown (API blocked),Peru - League Cup,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Peru - Liga 1,-,0,unknown (API blocked),Peru - Liga 1,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Philippines - NCAA,-,0,unknown (API blocked),Philippines - NCAA,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Philippines - UAAP,-,0,unknown (API blocked),Philippines - UAAP,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Poland - 1. Liga,-,0,unknown (API blocked),Poland - 1. Liga,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Poland - 2nd Liga,-,0,unknown (API blocked),Poland - 2nd Liga,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Poland - BLK Women,-,0,unknown (API blocked),Poland - BLK Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Poland - Basket Liga,-,0,unknown (API blocked),Poland - Basket Liga,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Poland - Ekstraklasa,-,0,unknown (API blocked),Poland - Ekstraklasa,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Poland - Liga 1 Women,-,0,unknown (API blocked),Poland - Liga 1 Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Hockey,Poland - Polska Hokey Liga,-,0,unknown (API blocked),Poland - Polska Hokey Liga,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Portugal - Liga 2,-,0,unknown (API blocked),Portugal - Liga 2,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Portugal - Liga Portuguesa de Basquetebol,-,0,unknown (API blocked),Portugal - Liga Portuguesa de Basquetebol,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Portugal - Primeira Liga,-,0,unknown (API blocked),Portugal - Primeira Liga,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Portugal - Proliga,-,0,unknown (API blocked),Portugal - Proliga,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Puerto Rico - Superior Nacional Women,-,0,unknown (API blocked),Puerto Rico - Superior Nacional Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Esports,Rainbow Six - China League,-,0,unknown (API blocked),Rainbow Six - China League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Romania - Division A,-,0,unknown (API blocked),Romania - Division A,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Romania - Division A Women,-,0,unknown (API blocked),Romania - Division A Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Romania - Liga 1,-,0,unknown (API blocked),Romania - Liga 1,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Russia - First League,-,0,unknown (API blocked),Russia - First League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Hockey,Russia - Junior Hockey League (MHL),-,0,unknown (API blocked),Russia - Junior Hockey League (MHL),0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Russia - Premier League,-,0,unknown (API blocked),Russia - Premier League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Hockey,Russia - Vysshaya hokkeinaya Liga,-,0,unknown (API blocked),Russia - Vysshaya hokkeinaya Liga,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Scotland - Championship,-,0,unknown (API blocked),Scotland - Championship,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Scotland - League One,-,0,unknown (API blocked),Scotland - League One,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Scotland - League Two,-,0,unknown (API blocked),Scotland - League Two,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Scotland - Premiership,-,0,unknown (API blocked),Scotland - Premiership,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Serbia - 1 ZLS Women,-,0,unknown (API blocked),Serbia - 1 ZLS Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Slovakia - Extraliga Women,-,0,unknown (API blocked),Slovakia - Extraliga Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Slovenia - 1.SKL Women,-,0,unknown (API blocked),Slovenia - 1.SKL Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Spain - Liga FEB,-,0,unknown (API blocked),Spain - Liga FEB,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Spain - Liga Women,-,0,unknown (API blocked),Spain - Liga Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Spain - Primera Federacion,-,0,unknown (API blocked),Spain - Primera Federacion,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Spain - Segunda Federacion,-,0,unknown (API blocked),Spain - Segunda Federacion,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Sweden - Allsvenskan,-,0,unknown (API blocked),Sweden - Allsvenskan,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Sweden - Basketligan,-,0,unknown (API blocked),Sweden - Basketligan,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Sweden - Basketligan Women,-,0,unknown (API blocked),Sweden - Basketligan Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Sweden - Division 1 Sodra,-,0,unknown (API blocked),Sweden - Division 1 Sodra,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Hockey,Sweden - Hockey Allsvenskan,-,0,unknown (API blocked),Sweden - Hockey Allsvenskan,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Hockey,Sweden - HockeyEttan,-,0,unknown (API blocked),Sweden - HockeyEttan,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Sweden - Superettan,-,0,unknown (API blocked),Sweden - Superettan,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Sweden - Superettan,-,0,unknown (API blocked),Sweden - Superettan,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Switzerland - NLB,-,0,unknown (API blocked),Switzerland - NLB,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Switzerland - SB League,-,0,unknown (API blocked),Switzerland - SB League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Switzerland - SB League Women,-,0,unknown (API blocked),Switzerland - SB League Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Switzerland - Super League,-,0,unknown (API blocked),Switzerland - Super League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Hockey,Switzerland - Swiss League,-,0,unknown (API blocked),Switzerland - Swiss League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Turkey - Super League Women,-,0,unknown (API blocked),Turkey - Super League Women,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Turkey - TBL First League,-,0,unknown (API blocked),Turkey - TBL First League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,UAE - League Cup,-,0,unknown (API blocked),UAE - League Cup,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,UEFA - Nations League B,-,0,unknown (API blocked),UEFA - Nations League B,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,UEFA - Nations League C,-,0,unknown (API blocked),UEFA - Nations League C,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,UEFA - U21 Euro Championship Qualifiers,-,0,unknown (API blocked),UEFA - U21 Euro Championship Qualifiers,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+MMA,UFC,-,0,unknown (API blocked),UFC,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Ukraine - Persha Liga,-,0,unknown (API blocked),Ukraine - Persha Liga,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Uruguay - Metro League,-,0,unknown (API blocked),Uruguay - Metro League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Uruguay - Segunda Division,-,0,unknown (API blocked),Uruguay - Segunda Division,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,Uruguay - Tercera de Ascenso,-,0,unknown (API blocked),Uruguay - Tercera de Ascenso,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Volleyball,Uruguay Division A,-,0,unknown (API blocked),Uruguay Division A,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Tennis,WTA 125K Adana - QF,-,0,unknown (API blocked),WTA 125K Adana - QF,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Tennis,WTA 125k Jingshan - Doubles,-,0,unknown (API blocked),WTA 125k Jingshan - Doubles,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Wales - Championship,-,0,unknown (API blocked),Wales - Championship,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Soccer,Wales - Premier League,-,0,unknown (API blocked),Wales - Premier League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Hockey,World - Asian Hockey League,-,0,unknown (API blocked),World - Asian Hockey League,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)
+Basketball,World - Club Friendlies,-,0,unknown (API blocked),World - Club Friendlies,0,not investigated,no,Pinnacle only,-,-,no,none,no,DISCOVERED (no Kalshi market)

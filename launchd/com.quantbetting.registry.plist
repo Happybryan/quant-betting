@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>Label</key><string>com.quantbetting.registry</string>
+  <key>ProgramArguments</key><array><string>/bin/sh</string><string>-c</string>
+    <string>H=$(date +%H); D=$(date +%d%H); cd /Users/bryandabbelt/Projects/quant-betting &amp;&amp; /usr/bin/python3 registry.py; /usr/bin/python3 prop_settle.py; /usr/bin/python3 daily_paper.py settle; [ "$H" = "15" ] &amp;&amp; /usr/bin/python3 daily_paper.py pick; [ "$D" = "0105" ] &amp;&amp; /usr/bin/python3 drift.py; true</string></array>
+  <key>StartCalendarInterval</key><array>
+    <dict><key>Hour</key><integer>5</integer><key>Minute</key><integer>0</integer></dict>
+    <dict><key>Hour</key><integer>15</integer><key>Minute</key><integer>0</integer></dict></array>
+  <key>StandardOutPath</key><string>/Users/bryandabbelt/Projects/quant-betting/logs/registry.log</string>
+  <key>StandardErrorPath</key><string>/Users/bryandabbelt/Projects/quant-betting/logs/registry.log</string>
+</dict></plist>

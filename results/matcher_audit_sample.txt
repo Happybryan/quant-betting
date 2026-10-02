@@ -1,0 +1,101 @@
+  1 [90] Soccer    KXAFCONGAME-26SEP28ZIMCOD            K: Zimbabwe vs Congo DR                         | P: Zimbabwe vs DR Congo                         CAF - Africa Cup of Nations  2026-09-28T16:00
+  2 [100] Soccer    KXUEFANLGAME-26SEP29SLOMKD           K: Slovenia vs North Macedonia                  | P: Slovenia vs North Macedonia                  UEFA - Nations League B 2026-09-29T18:45
+  3 [90] Soccer    KXBRASILEIROBGAME-26SEP28AMGJUV      K: America FC vs Juventude RS                   | P: America Mineiro vs Juventude                 Brazil - Serie B 2026-09-28T22:30
+  4 [92] Football  KXNCAAFGAME-26OCT03MIACLEM           K: Clemson vs Miami (FL)                        | P: Clemson vs Miami Florida                     NCAA 2026-10-03T16:00
+  5 [100] Tennis    KXATPCHALLENGERMATCH-26SEP28PETSAC   K: Mika Petkovic vs Vitaliy Sachko              | P: Mika Petkovic vs Vitaliy Sachko              ATP Challenger Bari - R1 2026-09-28T13:00
+  6 [90] Soccer    KXENGNLGAME-26SEP29YEOWOR            K: Yeovil vs Worthing                           | P: Yeovil Town vs Worthing                      England - National League 2026-09-29T18:45
+  7 [100] Tennis    KXWTAMATCH-26SEP27DARLEM             K: Harriet Dart vs Tiphanie Lemaitre            | P: Harriet Dart vs Tiphanie Lemaitre            WTA Beijing - Qualifiers 2026-09-28T03:00
+  8 [100] Esports   KXLOLGAME-26SEP280500GALKTC          K: Galions vs KT Rolster Challengers            | P: KT Rolster Challengers vs Galions            League of Legends - World St 2026-09-28T09:15
+  9 [100] Soccer    KXUSLGAME-26OCT03LEXPAS              K: Lexington SC vs El Paso Locomotive FC        | P: Lexington SC vs El Paso Locomotive           USA - USL Championship 2026-10-03T23:00
+ 10 [100] Football  KXNCAAFGAME-26OCT03ARMYLT            K: Louisiana Tech vs Army                       | P: Louisiana Tech vs Army                       NCAA 2026-10-03T23:30
+ 11 [100] Tennis    KXATPCHALLENGERMATCH-26SEP28GADDAL   K: Buvaysar Gadamauri vs Enrico Dalla Valle     | P: Buvaysar Gadamauri vs Enrico Dalla Valle     ATP Challenger Bari - R1 2026-09-28T11:30
+ 12 [90] Soccer    KXENGNLGAME-26SEP30TAMSUT            K: Tamworth vs Sutton                           | P: Tamworth vs Sutton United                    England - National League 2026-09-30T18:45
+ 13 [100] Esports   KXCS2GAME-26SEP280700NEMIFOK         K: Nemiga vs FOKUS                              | P: FOKUS vs Nemiga                              CS2 - NODWIN Clutch Series 2026-09-28T11:00
+ 14 [90] Soccer    KXEFLL1GAME-26OCT03BURAHUD           K: Burton vs Huddersfield                       | P: Burton Albion vs Huddersfield Town           England - League 1 2026-10-03T14:00
+ 15 [100] Soccer    KXUEFANLGAME-26SEP29SCOSUI           K: Scotland vs Switzerland                      | P: Scotland vs Switzerland                      UEFA - Nations League B 2026-09-29T18:45
+ 16 [90] Soccer    KXUCLWGAME-26OCT01PSGOHL             K: PSG vs Leuven                                | P: Paris Saint-Germain vs Oud-Heverlee Leuven   UEFA - Champions League Wome 2026-10-01T19:00
+ 17 [100] Soccer    KXUSLGAME-26SEP30SRPLAS              K: Sacramento Republic vs Las Vegas Lights      | P: Sacramento Republic vs Las Vegas Lights      USA - USL Championship 2026-10-01T02:00
+ 18 [90] Soccer    KXAPFDDHGAME-26SEP28LIBOLI           K: Libertad vs Olimpia                          | P: Libertad Asuncion vs Olimpia Asuncion        Paraguay - Division Profesio 2026-09-28T22:00
+ 19 [100] Soccer    KXLALIGAGAME-26OCT11RBBOSA           K: Real Betis vs Osasuna                        | P: Real Betis vs Osasuna                        Spain - La Liga 2026-10-11T16:30
+ 20 [100] Tennis    KXATPCHALLENGERMATCH-26SEP28ARNGUL   K: Federico Arnaboldi vs Svyatoslav Gulin       | P: Federico Arnaboldi vs Svyatoslav Gulin       ATP Challenger Bari - Qualif 2026-09-28T10:00
+ 21 [100] Soccer    KXSERIEAGAME-26OCT11LAZMON           K: Lazio vs Monza                               | P: Lazio vs Monza                               Italy - Serie A 2026-10-11T13:00
+ 22 [100] Soccer    KXCONCACAFNLGAME-26SEP28CUBBON       K: Cuba vs Bonaire                              | P: Cuba vs Bonaire                              CONCACAF - Nations League B 2026-09-28T21:00
+ 23 [100] Esports   KXLOLGAME-26SEP280200CPDT1A          K: Cupid Esports vs T1 Academy                  | P: T1 Academy vs Cupid                          League of Legends - World St 2026-09-28T06:15
+ 24 [100] Soccer    KXUEFANLGAME-26SEP29SVKKAZ           K: Slovakia vs Kazakhstan                       | P: Slovakia vs Kazakhstan                       UEFA - Nations League C 2026-09-29T18:45
+ 25 [92] Soccer    KXUSLGAME-26OCT03CSSOAK              K: Colorado Springs Sw. vs Oakland Roots SC     | P: Colorado Springs Switchbacks vs Oakland Roots USA - USL Championship 2026-10-04T01:00
+ 26 [100] Tennis    KXATPCHALLENGERMATCH-26SEP28DONSAK   K: Matthew William Donald vs Dimitris Sakellaridis | P: Matthew William Donald vs Dimitris Sakellaridis ATP Challenger Bari - Qualif 2026-09-28T10:00
+ 27 [100] Tennis    KXATPCHALLENGERMATCH-26SEP27SHAHON   K: Marat Sharipov vs Naoya Honda                | P: Marat Sharipov vs Naoya Honda                ATP Challenger Jingshan - Qu 2026-09-28T02:00
+ 28 [100] Soccer    KXCONCACAFNLGAME-26SEP28LCABMU       K: Saint Lucia vs Bermuda                       | P: Saint Lucia vs Bermuda                       CONCACAF - Nations League B 2026-09-29T00:00
+ 29 [95] Soccer    KXBUNDESLIGAGAME-26OCT11KOEBMG       K: FC Köln vs M´gladbach                        | P: FC Koln vs Borussia Monchengladbach          Germany - Bundesliga 2026-10-11T13:30
+ 30 [90] Soccer    KXBRASILEIROGAME-26OCT08CAPATL       K: Paranaense vs Atletico Mineiro               | P: Athletico Paranaense vs Atletico Mineiro     Brazil - Serie A 2026-10-08T23:00
+ 31 [100] Soccer    KXUEFANLGAME-26SEP29MDAFRO           K: Moldova vs Faroe Islands                     | P: Moldova vs Faroe Islands                     UEFA - Nations League C 2026-09-29T16:00
+ 32 [100] Soccer    KXEPLGAME-26OCT10SUNBRI              K: Sunderland vs Brighton                       | P: Sunderland vs Brighton                       England - Premier League 2026-10-10T14:00
+ 33 [90] Soccer    KXENGNLGAME-26SEP30EFCSOU            K: Eastleigh vs Southend                        | P: Eastleigh vs Southend United                 England - National League 2026-09-30T18:45
+ 34 [90] Soccer    KXURYPDGAME-26SEP28WANALB            K: Wanderers vs Albion                          | P: Montevideo Wanderers vs Albion               Uruguay - Primera Division 2026-09-28T23:00
+ 35 [90] Soccer    KXENGNLGAME-26SEP29HORALD            K: Hornchurch vs Aldershot                      | P: Hornchurch vs Aldershot Town                 England - National League 2026-09-29T18:45
+ 36 [100] Esports   KXR6GAME-26SEP281400VPG2             K: Virtus.pro vs G2 Esports                     | P: G2 vs Virtus.pro                             Rainbow Six - Europe MENA Le 2026-09-28T18:00
+ 37 [90] Football  KXNFLGAME-26OCT05ATLNO               K: New Orleans vs Atlanta                       | P: New Orleans Saints vs Atlanta Falcons        NFL 2026-10-06T00:15
+ 38 [100] Soccer    KXBRASILEIROGAME-26OCT07CRGPA        K: Remo vs Gremio                               | P: Remo vs Gremio                               Brazil - Serie A 2026-10-07T22:30
+ 39 [100] Soccer    KXAFCONGAME-26SEP29SOMCIV            K: Somalia vs Ivory Coast                       | P: Somalia vs Ivory Coast                       CAF - Africa Cup of Nations  2026-09-29T19:00
+ 40 [90] Soccer    KXENGNLGAME-26SEP29FYLCAR            K: Fylde vs Carlisle                            | P: AFC Fylde vs Carlisle United                 England - National League 2026-09-29T18:45
+ 41 [100] Football  KXNCAAFGAME-26OCT03AUBTENN           K: Tennessee vs Auburn                          | P: Tennessee vs Auburn                          NCAA 2026-10-03T19:30
+ 42 [100] Football  KXNCAAFGAME-26OCT03TTUCOLO           K: Colorado vs Texas Tech                       | P: Colorado vs Texas Tech                       NCAA 2026-10-03T23:30
+ 43 [90] Esports   KXR6GAME-26SEP281300FLCSSECRET       K: Falcons Esport vs Team Secret                | P: Secret vs Falcons                            Rainbow Six - Europe MENA Le 2026-09-28T17:00
+ 44 [100] Soccer    KXUCLWGAME-26SEP30PARARS             K: Paris FC vs Arsenal                          | P: Paris FC vs Arsenal                          UEFA - Champions League Wome 2026-09-30T16:45
+ 45 [100] Soccer    KXLALIGA2GAME-26SEP28LEGCAS          K: Leganes vs Castellon                         | P: Leganes vs Castellon                         Spain - Segunda Division 2026-09-28T18:30
+ 46 [90] Soccer    KXENGNLGAME-26SEP29HARHTO            K: Hartlepool vs Harrogate                      | P: Hartlepool United vs Harrogate Town          England - National League 2026-09-29T18:45
+ 47 [100] Soccer    KXAFCONGAME-26SEP29ZAMTOG            K: Zambia vs Togo                               | P: Zambia vs Togo                               CAF - Africa Cup of Nations  2026-09-29T16:00
+ 48 [100] Tennis    KXATPCHALLENGERMATCH-26SEP28MATBER   K: Anton Matusevich vs Robin Bertrand           | P: Anton Matusevich vs Robin Bertrand           ATP Challenger Porto - Quali 2026-09-28T12:00
+ 49 [100] Tennis    KXATPCHALLENGERMATCH-26SEP28SCIMAR   K: Matteo Sciahbasi vs Juan Cruz Martin Manzano | P: Matteo Sciahbasi vs Juan Cruz Martin Manzano ATP Challenger Bari - R1 2026-09-28T12:00
+ 50 [90] Soccer    KXLALIGAGAME-26OCT10RVCATH           K: Vallecano vs Bilbao                          | P: Rayo Vallecano vs Athletic Bilbao            Spain - La Liga 2026-10-10T12:00
+ 51 [100] Football  KXNCAAFGAME-26OCT03PURILL            K: Illinois vs Purdue                           | P: Illinois vs Purdue                           NCAA 2026-10-03T20:15
+ 52 [95] Soccer    KXEPLGAME-26OCT10MUNTOT              K: Manchester United vs Tottenham               | P: Manchester United vs Tottenham Hotspur       England - Premier League 2026-10-10T16:30
+ 53 [100] Football  KXNCAAFGAME-26OCT03WMUBUFF           K: Buffalo vs Western Michigan                  | P: Buffalo vs Western Michigan                  NCAA 2026-10-03T17:00
+ 54 [100] Soccer    KXSERIEAGAME-26OCT11COMROM           K: Como vs Roma                                 | P: Como vs Roma                                 Italy - Serie A 2026-10-11T10:30
+ 55 [100] Soccer    KXEPLGAME-26OCT11HULEVE              K: Hull City vs Everton                         | P: Hull City vs Everton                         England - Premier League 2026-10-11T13:00
+ 56 [90] Soccer    KXMLSGAME-26OCT06CHIVAN              K: Chicago Fire vs Vancouver                    | P: Chicago Fire vs Vancouver Whitecaps          USA - Major League Soccer 2026-10-07T00:30
+ 57 [100] Soccer    KXSERIEAGAME-26OCT11LECBFC           K: Lecce vs Bologna                             | P: Lecce vs Bologna                             Italy - Serie A 2026-10-11T13:00
+ 58 [100] Soccer    KXINTLFRIENDLYGAME-26SEP28JPNVEN     K: Japan vs Venezuela                           | P: Japan vs Venezuela                           International - Friendlies 2026-09-28T10:25
+ 59 [100] Soccer    KXLIGAEXPGAME-26OCT03ATMTLA          K: Atletico Morelia vs Tlaxcala                 | P: Atletico Morelia vs Tlaxcala                 Mexico - Liga de Expansión M 2026-10-04T01:00
+ 60 [100] Soccer    KXLIGAEXPGAME-26OCT02CLUVDS          K: Club Atletico La Paz vs Venados              | P: Atletico La Paz vs Venados                   Mexico - Liga de Expansión M 2026-10-03T03:00
+ 61 [100] Soccer    KXBUNDESLIGAGAME-26OCT10UNISVE       K: Union Berlin vs Elversberg                   | P: Union Berlin vs Elversberg                   Germany - Bundesliga 2026-10-10T13:30
+ 62 [90] Football  KXNFLGAME-26OCT04DALHOU              K: Houston vs Dallas                            | P: Houston Texans vs Dallas Cowboys             NFL 2026-10-04T17:00
+ 63 [100] Soccer    KXAFCONGAME-26SEP29ETHSEN            K: Ethiopia vs Senegal                          | P: Ethiopia vs Senegal                          CAF - Africa Cup of Nations  2026-09-29T13:00
+ 64 [100] Soccer    KXUEFANLGAME-26SEP28ROUBIH           K: Romania vs Bosnia and Herzegovina            | P: Romania vs Bosnia and Herzegovina            UEFA - Nations League B 2026-09-28T18:45
+ 65 [100] Soccer    KXAFCONGAME-26SEP29LBRMLI            K: Liberia vs Mali                              | P: Liberia vs Mali                              CAF - Africa Cup of Nations  2026-09-29T19:00
+ 66 [100] Soccer    KXUEFANLGAME-26SEP28BELFRA           K: Belgium vs France                            | P: Belgium vs France                            UEFA - Nations League A 2026-09-28T18:45
+ 67 [90] Football  KXNFLGAME-26OCT01PITCLE              K: Cleveland vs Pittsburgh                      | P: Cleveland Browns vs Pittsburgh Steelers      NFL 2026-10-02T00:15
+ 68 [100] Soccer    KXINTLFRIENDLYGAME-26SEP29MEXPER     K: Mexico vs Peru                               | P: Mexico vs Peru                               International - Friendlies 2026-09-30T01:00
+ 69 [100] Tennis    KXATPCHALLENGERMATCH-26SEP28ANGJOH   K: Lorenzo Angelini vs Garrett Johns            | P: Lorenzo Angelini vs Garrett Johns            ATP Challenger Bari - R1 2026-09-28T12:00
+ 70 [100] Soccer    KXUEFANLGAME-26SEP29LUXISL           K: Luxembourg vs Iceland                        | P: Luxembourg vs Iceland                        UEFA - Nations League C 2026-09-29T18:45
+ 71 [100] Tennis    KXWTACHALLENGERMATCH-26SEP27YANFER   K: Yidi Yang vs Fiona Ferro                     | P: Yidi Yang vs Fiona Ferro                     WTA 125k Jingshan - R1 2026-09-28T03:00
+ 72 [100] Soccer    KXAFCONGAME-26SEP29GABNIG            K: Gabon vs Niger                               | P: Gabon vs Niger                               CAF - Africa Cup of Nations  2026-09-29T19:00
+ 73 [90] Soccer    KXBUNDESLIGAGAME-26OCT10M05LEV       K: Mainz vs Leverkusen                          | P: Mainz 05 vs Bayer Leverkusen                 Germany - Bundesliga 2026-10-10T13:30
+ 74 [100] Soccer    KXINTLFRIENDLYGAME-26SEP29USACHI     K: USA vs Chile                                 | P: USA vs Chile                                 International - Friendlies 2026-09-30T00:00
+ 75 [100] Soccer    KXBRASILEIROGAME-26OCT08PALBAH       K: Palmeiras vs Bahia                           | P: Palmeiras vs Bahia                           Brazil - Serie A 2026-10-09T00:30
+ 76 [90] Soccer    KXENGNLGAME-26SEP29BORKID            K: Boreham vs Kidderminster                     | P: Boreham Wood vs Kidderminster Harriers       England - National League 2026-09-29T18:00
+ 77 [90] Soccer    KXBUNDESLIGAGAME-26OCT10RBLSGE       K: Leipzig vs Frankfurt                         | P: RB Leipzig vs Eintracht Frankfurt            Germany - Bundesliga 2026-10-10T16:30
+ 78 [100] Football  KXNCAAFGAME-26OCT03WASHUSC           K: USC vs Washington                            | P: USC vs Washington                            NCAA 2026-10-03T23:30
+ 79 [100] Football  KXNCAAFGAME-26OCT02LIBDEL            K: Delaware vs Liberty                          | P: Delaware vs Liberty                          NCAA 2026-10-02T23:00
+ 80 [100] Football  KXNCAAFGAME-26OCT03MRSHJMU           K: James Madison vs Marshall                    | P: James Madison vs Marshall                    NCAA 2026-10-03T19:45
+ 81 [90] Football  KXNFLGAME-26OCT04ARINYG              K: New York G vs Arizona                        | P: New York Giants vs Arizona Cardinals         NFL 2026-10-04T17:00
+ 82 [100] Soccer    KXINTLFRIENDLYGAME-26OCT01JPNECU     K: Japan vs Ecuador                             | P: Japan vs Ecuador                             International - Friendlies 2026-10-01T10:10
+ 83 [100] Football  KXNCAAFGAME-26OCT03STANWAKE          K: Wake Forest vs Stanford                      | P: Wake Forest vs Stanford                      NCAA 2026-10-03T16:00
+ 84 [100] Soccer    KXLALIGAGAME-26OCT10BARGET           K: Barcelona vs Getafe                          | P: Barcelona vs Getafe                          Spain - La Liga 2026-10-10T16:30
+ 85 [100] Football  KXNCAAFGAME-26OCT03BCSMU             K: SMU vs Boston College                        | P: SMU vs Boston College                        NCAA 2026-10-03T16:00
+ 86 [100] Soccer    KXAFCONGAME-26SEP29UGALBA            K: Uganda vs Libya                              | P: Uganda vs Libya                              CAF - Africa Cup of Nations  2026-09-29T16:00
+ 87 [90] Soccer    KXENGNLGAME-26SEP29WOKSOL            K: Woking vs Solihull                           | P: Woking vs Solihull Moors                     England - National League 2026-09-29T18:45
+ 88 [100] Soccer    KXSERIEAGAME-26OCT10GENFIO           K: Genoa vs Fiorentina                          | P: Genoa vs Fiorentina                          Italy - Serie A 2026-10-10T13:00
+ 89 [100] Soccer    KXUCLWGAME-26SEP30ROMBAR             K: Roma vs Barcelona                            | P: Roma vs FC Barcelona                         UEFA - Champions League Wome 2026-09-30T16:45
+ 90 [90] Soccer    KXENGNLGAME-26SEP29BAASCU            K: Barrow vs Scunthorpe                         | P: Barrow vs Scunthorpe United                  England - National League 2026-09-29T18:45
+ 91 [90] Soccer    KXENGNLGAME-26SEP29FGRWEA            K: Forest Green vs Wealdstone                   | P: Forest Green Rovers vs Wealdstone            England - National League 2026-09-29T18:45
+ 92 [100] Tennis    KXATPMATCH-26SEP27RIGDUC             K: Rigele TE vs James Duckworth                 | P: Rigele Te vs James Duckworth                 ATP Beijing - Qualifiers 2026-09-28T03:00
+ 93 [100] Soccer    KXLIGUE1GAME-26OCT10FCLPAR           K: Lorient vs Paris FC                          | P: Lorient vs Paris FC                          France - Ligue 1 2026-10-10T18:45
+ 94 [100] Soccer    KXAFCONGAME-26SEP29MADTAN            K: Madagascar vs Tanzania                       | P: Madagascar vs Tanzania                       CAF - Africa Cup of Nations  2026-09-29T13:00
+ 95 [100] Soccer    KXAFCONGAME-26SEP29COMNAM            K: Comoros vs Namibia                           | P: Comoros vs Namibia                           CAF - Africa Cup of Nations  2026-09-29T11:00
+ 96 [90] Basketball KXWNBAGAME-26SEP27DALGS              K: Golden State vs Dallas                       | P: Golden State Valkyries vs Dallas Wings       WNBA 2026-09-28T01:00
+ 97 [100] Tennis    KXATPCHALLENGERMATCH-26SEP28RECZAH   K: Alexandre Reco vs Patrick Zahraj             | P: Alexandre Reco vs Patrick Zahraj             ATP Challenger Mouilleron-Le 2026-09-28T09:00
+ 98 [100] Esports   KXCS2GAME-26SEP280630MELNXS          K: mellren vs Nexus                             | P: Nexus vs Mellren                             CS2 - European Pro League 2026-09-28T10:30
+ 99 [90] Soccer    KXLALIGAGAME-26OCT10ALAATM           K: Alaves vs Atletico                           | P: Alaves vs Atletico Madrid                    Spain - La Liga 2026-10-10T14:15
+100 [100] Soccer    KXEPLGAME-26OCT11CRYNFO              K: Crystal Palace vs Nottingham Forest          | P: Crystal Palace vs Nottingham Forest          England - Premier League 2026-10-11T13:00
+population: 269 auto-matches

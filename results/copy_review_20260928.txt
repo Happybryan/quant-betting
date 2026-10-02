@@ -1,0 +1,54 @@
+
+=== #1 Kingsnott | 6-pick | payout 23.0x | copies 135 | standard+1demon(Keenum)+combos
+  Zach Ertz                    MORE   10.5 receiving yards        P≈0.520      | Pinnacle same line 0.520
+  Jalen Hurts                  MORE  243.5 pass+rush yds          UNPRICEABLE  | no sharp market for this stat
+  Dontayvion Wicks             MORE    9.0 fantasy score          UNPRICEABLE  | no sharp market for this stat
+  Saquon Barkley+D'Andre Swift MORE  134.5 rush yds combo         UNPRICEABLE  | no sharp market for this stat
+  Case Keenum                  MORE    2.5 sacks taken            UNPRICEABLE  | no sharp market for this stat
+  Jihaad Campbell              MORE    7.0 tackles+ast            UNPRICEABLE  | no sharp market for this stat
+  break-even per leg (Power math, 23.0x over 6 legs): 0.593 | priced legs 1/6 | P(all priced legs hit, independence) 0.520
+
+=== #2 omegapicks | 6-pick | payout 188.0x | copies 84 | demon
+  Saquon Barkley               MORE   79.5 rush yards             P≈0.415      | Pinnacle line 73.5 (MORE 0.500); Kalshi 80+ bid/ask 0.41/0.42 -> MORE 0.415
+  Dontayvion Wicks             MORE   59.5 receiving yards        P≈0.325      | Pinnacle line 41.5 (MORE 0.506); Kalshi 60+ bid/ask 0.32/0.33 -> MORE 0.325
+  Rome Odunze                  MORE   39.5 receiving yards        P≈0.305      | Pinnacle line 24.5 (MORE 0.506); Kalshi 40+ bid/ask 0.30/0.31 -> MORE 0.305
+  Jalen Hurts                  MORE   19.5 pass completions       UNPRICEABLE  | Pinnacle line 18.5 (MORE 0.491)
+  Kalif Raymond                MORE    4.5 receptions             P≈0.155      | Pinnacle line 2.5 (MORE 0.500); Kalshi 5+ bid/ask 0.15/0.16 -> MORE 0.155
+  Tank Bigsby                  MORE    1.5 receptions             UNPRICEABLE  | no sharp market for this stat
+  break-even per leg (Power math, 188.0x over 6 legs): 0.418 | priced legs 4/6 | P(all priced legs hit, independence) 0.006
+
+=== #3 Tyrone0820 | 6-pick | payout 25.0x | copies 39 | standard
+  Jalen Hurts                  LESS  219.5 pass yards             UNPRICEABLE  | Pinnacle line 216.5 (MORE 0.498)
+  Saquon Barkley               MORE   72.5 rush yards             UNPRICEABLE  | Pinnacle line 73.5 (MORE 0.500)
+  D'Andre Swift                MORE   61.5 rush yards             UNPRICEABLE  | Pinnacle line 62.5 (MORE 0.500)
+  Rome Odunze                  MORE   25.5 receiving yards        UNPRICEABLE  | Pinnacle line 24.5 (MORE 0.506)
+  Tank Bigsby                  MORE   12.5 rush yards             P≈0.491      | Pinnacle same line 0.491
+  Zach Ertz                    MORE   10.5 receiving yards        P≈0.520      | Pinnacle same line 0.520
+  break-even per leg (Power math, 25.0x over 6 legs): 0.585 | priced legs 2/6 | P(all priced legs hit, independence) 0.255
+
+=== #4 omegapicks | 6-pick | payout 51.0x | copies 27 | demon
+  Rome Odunze                  MORE   29.5 receiving yards        UNPRICEABLE  | Pinnacle line 24.5 (MORE 0.506)
+  D'Andre Swift                MORE   15.5 rush attempts          UNPRICEABLE  | Pinnacle line 14.5 (MORE 0.509)
+  Kalif Raymond                MORE    3.5 receptions             P≈0.290      | Pinnacle line 2.5 (MORE 0.500); Kalshi 4+ bid/ask 0.28/0.30 -> MORE 0.290
+  Zach Ertz                    MORE    2.5 receptions             P≈0.230      | Pinnacle line 1.5 (MORE 0.509); Kalshi 3+ bid/ask 0.21/0.25 -> MORE 0.230
+  Jalen Hurts                  MORE    1.5 pass tds               P≈0.414      | Pinnacle same line 0.413; Kalshi 2+ bid/ask 0.41/0.42 -> MORE 0.415
+  Kyle Monangai                MORE    1.5 receptions             P≈0.411      | Pinnacle same line 0.417; Kalshi 2+ bid/ask 0.40/0.41 -> MORE 0.405
+  break-even per leg (Power math, 51.0x over 6 legs): 0.519 | priced legs 4/6 | P(all priced legs hit, independence) 0.011
+
+=== #5 Millionz | 6-pick | payout 4.5x | copies 24 | goblin
+  Jalen Hurts                  MORE  199.5 pass yards             P≈0.595      | Pinnacle line 216.5 (MORE 0.498); Kalshi 200+ bid/ask 0.59/0.60 -> MORE 0.595
+  DeVonta Smith                MORE   49.5 receiving yards        P≈0.725      | Pinnacle line 70.5 (MORE 0.506); Kalshi 50+ bid/ask 0.72/0.73 -> MORE 0.725
+  Saquon Barkley               MORE   69.5 rush+rec yds           UNPRICEABLE  | no sharp market for this stat
+  D'Andre Swift                MORE   59.5 rush+rec yds           UNPRICEABLE  | no sharp market for this stat
+  Kyle Monangai                MORE   39.5 rush+rec yds           UNPRICEABLE  | no sharp market for this stat
+  Rome Odunze                  MORE   19.5 receiving yards        UNPRICEABLE  | Pinnacle line 24.5 (MORE 0.506)
+  break-even per leg (Power math, 4.5x over 6 legs): 0.778 | priced legs 2/6 | P(all priced legs hit, independence) 0.431
+
+=== #6 2hyperactive | 6-pick | payout 45.5x | copies 22 | 3 demons (CS2) + standard
+  Vej                          MORE   11.5 maps 1-2 headshots     UNPRICEABLE  | no sharp market for this stat
+  youka                        MORE   11.5 maps 1-2 headshots     UNPRICEABLE  | no sharp market for this stat
+  millert                      MORE    4.5 map 1 headshots        UNPRICEABLE  | no sharp market for this stat
+  Jesus Luzardo                MORE    0.5 walks allowed          UNPRICEABLE  | no sharp market for this stat
+  Dominik Livakovic            LESS    9.5 goalie fantasy score   UNPRICEABLE  | no sharp market for this stat
+  Elias Pettersson             LESS    8.0 faceoffs won           UNPRICEABLE  | no sharp market for this stat
+  break-even per leg (Power math, 45.5x over 6 legs): 0.529 | priced legs 0/6

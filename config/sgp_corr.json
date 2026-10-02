@@ -1,0 +1,2277 @@
+{
+"version": "SGP_CORR_v1",
+"data": "nflverse REG 2024-2025",
+"min_n": 300,
+"pairs": {
+"pass tds|QB|receptions|TE|opp": {
+"rho": 0.03782960012525151,
+"n": 2332,
+"se": 0.020707884164064553
+},
+"pass tds|QB|receiving yards|TE|opp": {
+"rho": 0.04078358264144514,
+"n": 2340,
+"se": 0.020672455764868078
+},
+"pass yards|QB|receptions|TE|opp": {
+"rho": 0.010778797480520321,
+"n": 2357,
+"se": 0.020597770206089702
+},
+"pass yards|QB|receiving yards|TE|opp": {
+"rho": 0.015702434775432757,
+"n": 2365,
+"se": 0.020562903028816623
+},
+"receptions|TE|rush yards|QB|opp": {
+"rho": -0.04505472029534004,
+"n": 2357,
+"se": 0.020597770206089702
+},
+"receiving yards|TE|rush yards|QB|opp": {
+"rho": -0.041218318010076235,
+"n": 2365,
+"se": 0.020562903028816623
+},
+"pass attempts|QB|receptions|TE|opp": {
+"rho": -0.01565357330466383,
+"n": 2357,
+"se": 0.020597770206089702
+},
+"pass attempts|QB|receiving yards|TE|opp": {
+"rho": -0.0008282256407788992,
+"n": 2365,
+"se": 0.020562903028816623
+},
+"pass completions|QB|receptions|TE|opp": {
+"rho": -0.018167209279075974,
+"n": 2357,
+"se": 0.020597770206089702
+},
+"pass completions|QB|receiving yards|TE|opp": {
+"rho": -0.004708905199135133,
+"n": 2365,
+"se": 0.020562903028816623
+},
+"receptions|TE|rush attempts|QB|opp": {
+"rho": 0.016267882698472853,
+"n": 2357,
+"se": 0.020597770206089702
+},
+"receiving yards|TE|rush attempts|QB|opp": {
+"rho": -0.010498035482884001,
+"n": 2365,
+"se": 0.020562903028816623
+},
+"interceptions|QB|receptions|TE|opp": {
+"rho": -0.029210022620844368,
+"n": 2322,
+"se": 0.020752426878823012
+},
+"interceptions|QB|receiving yards|TE|opp": {
+"rho": -0.009734509818097436,
+"n": 2330,
+"se": 0.020716769761626043
+},
+"pass tds|QB|receptions|TE|same": {
+"rho": 0.08955509490203535,
+"n": 2321,
+"se": 0.020756896976210092
+},
+"pass tds|QB|receiving yards|TE|same": {
+"rho": 0.11680919777313736,
+"n": 2328,
+"se": 0.020725666807241958
+},
+"pass tds|QB|rush attempts|TE|same": {
+"rho": -0.04337951929866167,
+"n": 482,
+"se": 0.04554875186742769
+},
+"pass yards|QB|receptions|TE|same": {
+"rho": 0.16758098650770775,
+"n": 2346,
+"se": 0.02064600347538335
+},
+"pass yards|QB|receiving yards|TE|same": {
+"rho": 0.21713370408061608,
+"n": 2353,
+"se": 0.020615270438818365
+},
+"pass yards|QB|rush attempts|TE|same": {
+"rho": -0.029004939362736494,
+"n": 487,
+"se": 0.04531432544294438
+},
+"receptions|TE|rush yards|QB|same": {
+"rho": 0.017447047869606495,
+"n": 2346,
+"se": 0.02064600347538335
+},
+"receiving yards|TE|rush yards|QB|same": {
+"rho": 0.020245665751919165,
+"n": 2353,
+"se": 0.020615270438818365
+},
+"rush attempts|TE|rush yards|QB|same": {
+"rho": -0.044082165246210316,
+"n": 487,
+"se": 0.04531432544294438
+},
+"pass attempts|QB|receptions|TE|same": {
+"rho": 0.2093001945568237,
+"n": 2346,
+"se": 0.02064600347538335
+},
+"pass attempts|QB|receiving yards|TE|same": {
+"rho": 0.17625565524328332,
+"n": 2353,
+"se": 0.020615270438818365
+},
+"pass attempts|QB|rush attempts|TE|same": {
+"rho": -0.003995879678184791,
+"n": 487,
+"se": 0.04531432544294438
+},
+"pass completions|QB|receptions|TE|same": {
+"rho": 0.2463716848865158,
+"n": 2346,
+"se": 0.02064600347538335
+},
+"pass completions|QB|receiving yards|TE|same": {
+"rho": 0.20626445595961465,
+"n": 2353,
+"se": 0.020615270438818365
+},
+"pass completions|QB|rush attempts|TE|same": {
+"rho": -0.02793235788727715,
+"n": 487,
+"se": 0.04531432544294438
+},
+"receptions|TE|rush attempts|QB|same": {
+"rho": -0.02273283497270955,
+"n": 2346,
+"se": 0.02064600347538335
+},
+"receiving yards|TE|rush attempts|QB|same": {
+"rho": 0.0009992782066874195,
+"n": 2353,
+"se": 0.020615270438818365
+},
+"rush attempts|QB|rush attempts|TE|same": {
+"rho": 0.038858383263335704,
+"n": 487,
+"se": 0.04531432544294438
+},
+"interceptions|QB|receptions|TE|same": {
+"rho": 0.06123232439020269,
+"n": 2320,
+"se": 0.020761369963434993
+},
+"interceptions|QB|receiving yards|TE|same": {
+"rho": 0.026963895468842692,
+"n": 2327,
+"se": 0.020730119630756057
+},
+"interceptions|QB|rush attempts|TE|same": {
+"rho": -0.04203805411613907,
+"n": 481,
+"se": 0.04559607525875532
+},
+"pass tds|QB|receptions|WR|same": {
+"rho": 0.08904640550918519,
+"n": 4615,
+"se": 0.014720214798941532
+},
+"pass tds|QB|receiving yards|WR|same": {
+"rho": 0.1289955530553017,
+"n": 4615,
+"se": 0.014720214798941532
+},
+"pass attempts|WR|pass tds|QB|same": {
+"rho": 0.1466044284686167,
+"n": 365,
+"se": 0.052342392259021375
+},
+"pass yards|QB|receptions|WR|same": {
+"rho": 0.1962159398969507,
+"n": 4666,
+"se": 0.014639546813491697
+},
+"pass yards|QB|receiving yards|WR|same": {
+"rho": 0.2530799238502668,
+"n": 4666,
+"se": 0.014639546813491697
+},
+"pass attempts|WR|pass yards|QB|same": {
+"rho": 0.10209932897059387,
+"n": 365,
+"se": 0.052342392259021375
+},
+"receptions|WR|rush yards|QB|same": {
+"rho": 0.0012196536973641263,
+"n": 4666,
+"se": 0.014639546813491697
+},
+"receiving yards|WR|rush yards|QB|same": {
+"rho": -0.0024925586366741502,
+"n": 4666,
+"se": 0.014639546813491697
+},
+"pass attempts|WR|rush yards|QB|same": {
+"rho": 0.0312392171888668,
+"n": 365,
+"se": 0.052342392259021375
+},
+"pass attempts|QB|receptions|WR|same": {
+"rho": 0.18706364042156537,
+"n": 4666,
+"se": 0.014639546813491697
+},
+"pass attempts|QB|receiving yards|WR|same": {
+"rho": 0.14423995334821996,
+"n": 4666,
+"se": 0.014639546813491697
+},
+"pass attempts|QB|pass attempts|WR|same": {
+"rho": 0.06300726231451215,
+"n": 365,
+"se": 0.052342392259021375
+},
+"pass completions|QB|receptions|WR|same": {
+"rho": 0.23125121288746914,
+"n": 4666,
+"se": 0.014639546813491697
+},
+"pass completions|QB|receiving yards|WR|same": {
+"rho": 0.1738352756044243,
+"n": 4666,
+"se": 0.014639546813491697
+},
+"pass attempts|WR|pass completions|QB|same": {
+"rho": 0.09702032589296912,
+"n": 365,
+"se": 0.052342392259021375
+},
+"receptions|WR|rush attempts|QB|same": {
+"rho": -0.01987414732216182,
+"n": 4666,
+"se": 0.014639546813491697
+},
+"receiving yards|WR|rush attempts|QB|same": {
+"rho": -0.009846973722761625,
+"n": 4666,
+"se": 0.014639546813491697
+},
+"pass attempts|WR|rush attempts|QB|same": {
+"rho": 0.03975428843434329,
+"n": 365,
+"se": 0.052342392259021375
+},
+"interceptions|QB|receptions|WR|same": {
+"rho": 0.009305861452692788,
+"n": 4605,
+"se": 0.014736188992246296
+},
+"interceptions|QB|receiving yards|WR|same": {
+"rho": -0.007478295017024848,
+"n": 4605,
+"se": 0.014736188992246296
+},
+"interceptions|QB|pass attempts|WR|same": {
+"rho": -0.016898424096114296,
+"n": 365,
+"se": 0.052342392259021375
+},
+"pass tds|QB|receptions|WR|opp": {
+"rho": 0.06143519745654502,
+"n": 4586,
+"se": 0.014766683779622342
+},
+"pass tds|QB|receiving yards|WR|opp": {
+"rho": 0.06365255928153699,
+"n": 4586,
+"se": 0.014766683779622342
+},
+"pass tds|QB|rush yards|WR|opp": {
+"rho": 0.016077512467281417,
+"n": 2262,
+"se": 0.021025856676559002
+},
+"pass tds|QB|rush attempts|WR|opp": {
+"rho": 0.015121815654046038,
+"n": 2316,
+"se": 0.020779290873084565
+},
+"pass yards|QB|receptions|WR|opp": {
+"rho": 0.01152496850124738,
+"n": 4633,
+"se": 0.014691591690258264
+},
+"pass yards|QB|receiving yards|WR|opp": {
+"rho": 0.032674696709857516,
+"n": 4633,
+"se": 0.014691591690258264
+},
+"pass yards|QB|rush yards|WR|opp": {
+"rho": 0.011217365173317577,
+"n": 2285,
+"se": 0.0209197696327652
+},
+"pass yards|QB|rush attempts|WR|opp": {
+"rho": 0.000781442815517578,
+"n": 2340,
+"se": 0.020672455764868078
+},
+"receptions|WR|rush yards|QB|opp": {
+"rho": -0.005301778463829384,
+"n": 4633,
+"se": 0.014691591690258264
+},
+"receiving yards|WR|rush yards|QB|opp": {
+"rho": 0.012397682284338615,
+"n": 4633,
+"se": 0.014691591690258264
+},
+"rush yards|QB|rush yards|WR|opp": {
+"rho": 0.035003143690342006,
+"n": 2285,
+"se": 0.0209197696327652
+},
+"rush attempts|WR|rush yards|QB|opp": {
+"rho": 0.03735447616856669,
+"n": 2340,
+"se": 0.020672455764868078
+},
+"pass attempts|QB|receptions|WR|opp": {
+"rho": -0.039172195961260654,
+"n": 4633,
+"se": 0.014691591690258264
+},
+"pass attempts|QB|receiving yards|WR|opp": {
+"rho": -0.017216796995156648,
+"n": 4633,
+"se": 0.014691591690258264
+},
+"pass attempts|QB|rush yards|WR|opp": {
+"rho": 0.004435306706175446,
+"n": 2285,
+"se": 0.0209197696327652
+},
+"pass attempts|QB|rush attempts|WR|opp": {
+"rho": -0.011954062180617514,
+"n": 2340,
+"se": 0.020672455764868078
+},
+"pass completions|QB|receptions|WR|opp": {
+"rho": -0.02007063389658799,
+"n": 4633,
+"se": 0.014691591690258264
+},
+"pass completions|QB|receiving yards|WR|opp": {
+"rho": -0.0004236988080537815,
+"n": 4633,
+"se": 0.014691591690258264
+},
+"pass completions|QB|rush yards|WR|opp": {
+"rho": -0.0005916220780166597,
+"n": 2285,
+"se": 0.0209197696327652
+},
+"pass completions|QB|rush attempts|WR|opp": {
+"rho": -0.014661564669163017,
+"n": 2340,
+"se": 0.020672455764868078
+},
+"receptions|WR|rush attempts|QB|opp": {
+"rho": -0.0036369384727425744,
+"n": 4633,
+"se": 0.014691591690258264
+},
+"receiving yards|WR|rush attempts|QB|opp": {
+"rho": -0.0023482575325683734,
+"n": 4633,
+"se": 0.014691591690258264
+},
+"rush attempts|QB|rush yards|WR|opp": {
+"rho": -0.006040718684195952,
+"n": 2285,
+"se": 0.0209197696327652
+},
+"rush attempts|QB|rush attempts|WR|opp": {
+"rho": -0.0074191875114302495,
+"n": 2340,
+"se": 0.020672455764868078
+},
+"interceptions|QB|receptions|WR|opp": {
+"rho": -0.06087747895523501,
+"n": 4575,
+"se": 0.014784425419091456
+},
+"interceptions|QB|receiving yards|WR|opp": {
+"rho": -0.04752922662611354,
+"n": 4575,
+"se": 0.014784425419091456
+},
+"interceptions|QB|rush yards|WR|opp": {
+"rho": 0.03148275675767137,
+"n": 2257,
+"se": 0.02104913339870572
+},
+"interceptions|QB|rush attempts|WR|opp": {
+"rho": 0.026482738379368924,
+"n": 2312,
+"se": 0.020797258270192576
+},
+"pass tds|QB|receptions|RB|opp": {
+"rho": 0.03350981705455874,
+"n": 2799,
+"se": 0.01890159923745809
+},
+"pass tds|QB|receiving yards|RB|opp": {
+"rho": 0.04429322312340265,
+"n": 2799,
+"se": 0.01890159923745809
+},
+"pass tds|QB|rush yards|RB|opp": {
+"rho": -0.0016265953404666863,
+"n": 2879,
+"se": 0.01863713570725434
+},
+"pass tds|QB|rush attempts|RB|opp": {
+"rho": -0.030848384657237927,
+"n": 2885,
+"se": 0.018617745583356375
+},
+"pass yards|QB|receptions|RB|opp": {
+"rho": -0.012423997043418351,
+"n": 2828,
+"se": 0.01880443536111504
+},
+"pass yards|QB|receiving yards|RB|opp": {
+"rho": -0.004572658339654132,
+"n": 2828,
+"se": 0.01880443536111504
+},
+"pass yards|QB|rush yards|RB|opp": {
+"rho": -0.039071987794050606,
+"n": 2908,
+"se": 0.0185439735388071
+},
+"pass yards|QB|rush attempts|RB|opp": {
+"rho": -0.0685900927549535,
+"n": 2914,
+"se": 0.018524872445114315
+},
+"receptions|RB|rush yards|QB|opp": {
+"rho": 0.006417003868330994,
+"n": 2828,
+"se": 0.01880443536111504
+},
+"receiving yards|RB|rush yards|QB|opp": {
+"rho": 0.0016896050969410867,
+"n": 2828,
+"se": 0.01880443536111504
+},
+"rush yards|QB|rush yards|RB|opp": {
+"rho": -0.002942150797180583,
+"n": 2908,
+"se": 0.0185439735388071
+},
+"rush attempts|RB|rush yards|QB|opp": {
+"rho": -0.024331245372368273,
+"n": 2914,
+"se": 0.018524872445114315
+},
+"pass attempts|QB|receptions|RB|opp": {
+"rho": -0.06246859348689487,
+"n": 2828,
+"se": 0.01880443536111504
+},
+"pass attempts|QB|receiving yards|RB|opp": {
+"rho": -0.024288588368498388,
+"n": 2828,
+"se": 0.01880443536111504
+},
+"pass attempts|QB|rush yards|RB|opp": {
+"rho": -0.0019038748980411409,
+"n": 2908,
+"se": 0.0185439735388071
+},
+"pass attempts|QB|rush attempts|RB|opp": {
+"rho": -0.014786355259411518,
+"n": 2914,
+"se": 0.018524872445114315
+},
+"pass completions|QB|receptions|RB|opp": {
+"rho": -0.044606088678307454,
+"n": 2828,
+"se": 0.01880443536111504
+},
+"pass completions|QB|receiving yards|RB|opp": {
+"rho": -0.02102165363521689,
+"n": 2828,
+"se": 0.01880443536111504
+},
+"pass completions|QB|rush yards|RB|opp": {
+"rho": -0.03690032018607118,
+"n": 2908,
+"se": 0.0185439735388071
+},
+"pass completions|QB|rush attempts|RB|opp": {
+"rho": -0.06259489767113134,
+"n": 2914,
+"se": 0.018524872445114315
+},
+"receptions|RB|rush attempts|QB|opp": {
+"rho": 0.021355640616812693,
+"n": 2828,
+"se": 0.01880443536111504
+},
+"receiving yards|RB|rush attempts|QB|opp": {
+"rho": 0.013661499484153716,
+"n": 2828,
+"se": 0.01880443536111504
+},
+"rush attempts|QB|rush yards|RB|opp": {
+"rho": -0.045841011108138124,
+"n": 2908,
+"se": 0.0185439735388071
+},
+"rush attempts|QB|rush attempts|RB|opp": {
+"rho": -0.08159906030946051,
+"n": 2914,
+"se": 0.018524872445114315
+},
+"interceptions|QB|receptions|RB|opp": {
+"rho": -0.07642171413814128,
+"n": 2793,
+"se": 0.018921890815214913
+},
+"interceptions|QB|receiving yards|RB|opp": {
+"rho": -0.052565800819077656,
+"n": 2793,
+"se": 0.018921890815214913
+},
+"interceptions|QB|rush yards|RB|opp": {
+"rho": -0.001085155988933343,
+"n": 2874,
+"se": 0.018653340506165916
+},
+"interceptions|QB|rush attempts|RB|opp": {
+"rho": 0.016597509903768445,
+"n": 2880,
+"se": 0.018633899812498248
+},
+"pass tds|QB|rush yards|WR|same": {
+"rho": 0.07466815919824966,
+"n": 2287,
+"se": 0.020910620378169383
+},
+"pass tds|QB|rush attempts|WR|same": {
+"rho": 0.06477956594667354,
+"n": 2344,
+"se": 0.02065480961930069
+},
+"pass yards|QB|rush yards|WR|same": {
+"rho": -0.01982472051978479,
+"n": 2315,
+"se": 0.020783778356318634
+},
+"pass yards|QB|rush attempts|WR|same": {
+"rho": -0.010621314590441367,
+"n": 2372,
+"se": 0.020532539058829544
+},
+"rush yards|QB|rush yards|WR|same": {
+"rho": 0.0032436168445725776,
+"n": 2315,
+"se": 0.020783778356318634
+},
+"rush attempts|WR|rush yards|QB|same": {
+"rho": 0.014386266070212872,
+"n": 2372,
+"se": 0.020532539058829544
+},
+"pass attempts|QB|rush yards|WR|same": {
+"rho": -0.040971983610660664,
+"n": 2315,
+"se": 0.020783778356318634
+},
+"pass attempts|QB|rush attempts|WR|same": {
+"rho": -0.03660768393001625,
+"n": 2372,
+"se": 0.020532539058829544
+},
+"pass completions|QB|rush yards|WR|same": {
+"rho": -0.03967302799334164,
+"n": 2315,
+"se": 0.020783778356318634
+},
+"pass completions|QB|rush attempts|WR|same": {
+"rho": -0.024129620617006565,
+"n": 2372,
+"se": 0.020532539058829544
+},
+"rush attempts|QB|rush yards|WR|same": {
+"rho": -0.005610449068898064,
+"n": 2315,
+"se": 0.020783778356318634
+},
+"rush attempts|QB|rush attempts|WR|same": {
+"rho": 0.0027314129407155384,
+"n": 2372,
+"se": 0.020532539058829544
+},
+"interceptions|QB|rush yards|WR|same": {
+"rho": -0.031243138599185732,
+"n": 2276,
+"se": 0.020961090407515925
+},
+"interceptions|QB|rush attempts|WR|same": {
+"rho": -0.01817951319852792,
+"n": 2333,
+"se": 0.020703445650635786
+},
+"pass tds|QB|pass tds|QB|opp": {
+"rho": 0.06481744177179219,
+"n": 565,
+"se": 0.04207031619116713
+},
+"pass tds|QB|pass yards|QB|opp": {
+"rho": 0.11521361501859724,
+"n": 1141,
+"se": 0.029604462320866852
+},
+"pass tds|QB|rush yards|QB|opp": {
+"rho": 0.0531090642446009,
+"n": 1141,
+"se": 0.029604462320866852
+},
+"pass attempts|QB|pass tds|QB|opp": {
+"rho": 0.07883016258916294,
+"n": 1141,
+"se": 0.029604462320866852
+},
+"pass completions|QB|pass tds|QB|opp": {
+"rho": 0.09236294334349335,
+"n": 1141,
+"se": 0.029604462320866852
+},
+"pass tds|QB|rush attempts|QB|opp": {
+"rho": 0.04422556334312806,
+"n": 1141,
+"se": 0.029604462320866852
+},
+"interceptions|QB|pass tds|QB|opp": {
+"rho": -0.0009160462215951834,
+"n": 1126,
+"se": 0.02980099775410749
+},
+"pass yards|QB|pass yards|QB|opp": {
+"rho": 0.08761165305215429,
+"n": 576,
+"se": 0.041666666666666664
+},
+"pass yards|QB|rush yards|QB|opp": {
+"rho": 0.04196271250248803,
+"n": 1152,
+"se": 0.029462782549439483
+},
+"pass attempts|QB|pass yards|QB|opp": {
+"rho": 0.01760621223357455,
+"n": 1152,
+"se": 0.029462782549439483
+},
+"pass completions|QB|pass yards|QB|opp": {
+"rho": 0.021264520137682864,
+"n": 1152,
+"se": 0.029462782549439483
+},
+"pass yards|QB|rush attempts|QB|opp": {
+"rho": 0.021939466342406008,
+"n": 1152,
+"se": 0.029462782549439483
+},
+"interceptions|QB|pass yards|QB|opp": {
+"rho": -0.08102898522163123,
+"n": 1137,
+"se": 0.029656491293029667
+},
+"rush yards|QB|rush yards|QB|opp": {
+"rho": -0.004066628337049589,
+"n": 576,
+"se": 0.041666666666666664
+},
+"pass attempts|QB|rush yards|QB|opp": {
+"rho": 0.018165602363055464,
+"n": 1152,
+"se": 0.029462782549439483
+},
+"pass completions|QB|rush yards|QB|opp": {
+"rho": 0.018892612939674303,
+"n": 1152,
+"se": 0.029462782549439483
+},
+"rush attempts|QB|rush yards|QB|opp": {
+"rho": 0.07125650224259646,
+"n": 1152,
+"se": 0.029462782549439483
+},
+"interceptions|QB|rush yards|QB|opp": {
+"rho": -0.045645698113261475,
+"n": 1137,
+"se": 0.029656491293029667
+},
+"pass attempts|QB|pass attempts|QB|opp": {
+"rho": -0.04116020076576138,
+"n": 576,
+"se": 0.041666666666666664
+},
+"pass attempts|QB|pass completions|QB|opp": {
+"rho": -0.0650868435790293,
+"n": 1152,
+"se": 0.029462782549439483
+},
+"pass attempts|QB|rush attempts|QB|opp": {
+"rho": 0.05180540028763554,
+"n": 1152,
+"se": 0.029462782549439483
+},
+"interceptions|QB|pass attempts|QB|opp": {
+"rho": -0.0877657221319575,
+"n": 1137,
+"se": 0.029656491293029667
+},
+"pass completions|QB|pass completions|QB|opp": {
+"rho": -0.056321247205977004,
+"n": 576,
+"se": 0.041666666666666664
+},
+"pass completions|QB|rush attempts|QB|opp": {
+"rho": 0.0484100274256576,
+"n": 1152,
+"se": 0.029462782549439483
+},
+"interceptions|QB|pass completions|QB|opp": {
+"rho": -0.11161456745187796,
+"n": 1137,
+"se": 0.029656491293029667
+},
+"rush attempts|QB|rush attempts|QB|opp": {
+"rho": -0.041876183077730916,
+"n": 576,
+"se": 0.041666666666666664
+},
+"interceptions|QB|rush attempts|QB|opp": {
+"rho": 0.03042391641911165,
+"n": 1137,
+"se": 0.029656491293029667
+},
+"interceptions|QB|interceptions|QB|opp": {
+"rho": -0.01267579667296885,
+"n": 561,
+"se": 0.04222003309207491
+},
+"pass tds|QB|receptions|RB|same": {
+"rho": 0.0379466022984302,
+"n": 2787,
+"se": 0.018942247884916413
+},
+"pass tds|QB|receiving yards|RB|same": {
+"rho": 0.0740141751432988,
+"n": 2787,
+"se": 0.018942247884916413
+},
+"pass tds|QB|rush yards|RB|same": {
+"rho": 0.026964377550632038,
+"n": 2882,
+"se": 0.018627433076293616
+},
+"pass tds|QB|rush attempts|RB|same": {
+"rho": 0.018422412791435416,
+"n": 2887,
+"se": 0.01861129564531997
+},
+"pass yards|QB|receptions|RB|same": {
+"rho": 0.13818487985535224,
+"n": 2820,
+"se": 0.018831089428867735
+},
+"pass yards|QB|receiving yards|RB|same": {
+"rho": 0.17827639304729714,
+"n": 2820,
+"se": 0.018831089428867735
+},
+"pass yards|QB|rush yards|RB|same": {
+"rho": -0.060161053855426506,
+"n": 2915,
+"se": 0.018521694664415903
+},
+"pass yards|QB|rush attempts|RB|same": {
+"rho": -0.04424336018545704,
+"n": 2920,
+"se": 0.018505830254940132
+},
+"receptions|RB|rush yards|QB|same": {
+"rho": 0.02388397148774129,
+"n": 2820,
+"se": 0.018831089428867735
+},
+"receiving yards|RB|rush yards|QB|same": {
+"rho": 0.01037895520720587,
+"n": 2820,
+"se": 0.018831089428867735
+},
+"rush yards|QB|rush yards|RB|same": {
+"rho": -0.009498317987965315,
+"n": 2915,
+"se": 0.018521694664415903
+},
+"rush attempts|RB|rush yards|QB|same": {
+"rho": -0.016430085270606597,
+"n": 2920,
+"se": 0.018505830254940132
+},
+"pass attempts|QB|receptions|RB|same": {
+"rho": 0.18875698736867177,
+"n": 2820,
+"se": 0.018831089428867735
+},
+"pass attempts|QB|receiving yards|RB|same": {
+"rho": 0.133675065774196,
+"n": 2820,
+"se": 0.018831089428867735
+},
+"pass attempts|QB|rush yards|RB|same": {
+"rho": -0.11303191000800676,
+"n": 2915,
+"se": 0.018521694664415903
+},
+"pass attempts|QB|rush attempts|RB|same": {
+"rho": -0.11935372786108152,
+"n": 2920,
+"se": 0.018505830254940132
+},
+"pass completions|QB|receptions|RB|same": {
+"rho": 0.23509707349577,
+"n": 2820,
+"se": 0.018831089428867735
+},
+"pass completions|QB|receiving yards|RB|same": {
+"rho": 0.165656311982814,
+"n": 2820,
+"se": 0.018831089428867735
+},
+"pass completions|QB|rush yards|RB|same": {
+"rho": -0.07732696636369887,
+"n": 2915,
+"se": 0.018521694664415903
+},
+"pass completions|QB|rush attempts|RB|same": {
+"rho": -0.08432954796701828,
+"n": 2920,
+"se": 0.018505830254940132
+},
+"receptions|RB|rush attempts|QB|same": {
+"rho": 0.010064546711086727,
+"n": 2820,
+"se": 0.018831089428867735
+},
+"receiving yards|RB|rush attempts|QB|same": {
+"rho": 0.01606518516077261,
+"n": 2820,
+"se": 0.018831089428867735
+},
+"rush attempts|QB|rush yards|RB|same": {
+"rho": 0.03081977807290879,
+"n": 2915,
+"se": 0.018521694664415903
+},
+"rush attempts|QB|rush attempts|RB|same": {
+"rho": 0.04016151798597564,
+"n": 2920,
+"se": 0.018505830254940132
+},
+"interceptions|QB|receptions|RB|same": {
+"rho": 0.06992768970718859,
+"n": 2780,
+"se": 0.01896608104527204
+},
+"interceptions|QB|receiving yards|RB|same": {
+"rho": 0.04643824728951313,
+"n": 2780,
+"se": 0.01896608104527204
+},
+"interceptions|QB|rush yards|RB|same": {
+"rho": -0.04602059304396242,
+"n": 2869,
+"se": 0.018669587648437895
+},
+"interceptions|QB|rush attempts|RB|same": {
+"rho": -0.06349930410860198,
+"n": 2874,
+"se": 0.018653340506165916
+},
+"receptions|TE|receptions|TE|same": {
+"rho": 0.038991999793393545,
+"n": 1559,
+"se": 0.02532660297934526
+},
+"receiving yards|TE|receptions|TE|same": {
+"rho": 0.015668900438270506,
+"n": 3129,
+"se": 0.01787710613096452
+},
+"receiving yards|TE|receiving yards|TE|same": {
+"rho": 0.0017059808632284906,
+"n": 1570,
+"se": 0.025237723256253435
+},
+"receptions|TE|receptions|TE|opp": {
+"rho": -0.025751184224531463,
+"n": 2383,
+"se": 0.020485094834173604
+},
+"receiving yards|TE|receptions|TE|opp": {
+"rho": -0.007211857022931704,
+"n": 4781,
+"se": 0.014462408628372747
+},
+"receptions|TE|rush attempts|TE|opp": {
+"rho": 0.003525193270479768,
+"n": 1031,
+"se": 0.03114373299321498
+},
+"receiving yards|TE|receiving yards|TE|opp": {
+"rho": 0.011559747766934324,
+"n": 2398,
+"se": 0.020420925015338272
+},
+"receiving yards|TE|rush attempts|TE|opp": {
+"rho": -0.0017242529240086998,
+"n": 1038,
+"se": 0.03103854276221004
+},
+"receptions|TE|receptions|WR|opp": {
+"rho": -0.009591288500737372,
+"n": 9469,
+"se": 0.010276564247455133
+},
+"receiving yards|WR|receptions|TE|opp": {
+"rho": 0.0071201235182100815,
+"n": 9469,
+"se": 0.010276564247455133
+},
+"pass attempts|WR|receptions|TE|opp": {
+"rho": 0.039212090467065204,
+"n": 725,
+"se": 0.037139067635410375
+},
+"receiving yards|TE|receptions|WR|opp": {
+"rho": -0.0016473905384965255,
+"n": 9498,
+"se": 0.010260863668616902
+},
+"receiving yards|TE|receiving yards|WR|opp": {
+"rho": 0.011020359035445182,
+"n": 9498,
+"se": 0.010260863668616902
+},
+"pass attempts|WR|receiving yards|TE|opp": {
+"rho": 0.059051350297964884,
+"n": 728,
+"se": 0.03706246583305506
+},
+"receptions|TE|receptions|WR|same": {
+"rho": 0.02953048049542311,
+"n": 9418,
+"se": 0.010304351312815117
+},
+"receiving yards|WR|receptions|TE|same": {
+"rho": 0.01833626819536314,
+"n": 9418,
+"se": 0.010304351312815117
+},
+"receptions|TE|rush yards|WR|same": {
+"rho": -0.022377553407163308,
+"n": 4628,
+"se": 0.014699525800946368
+},
+"receptions|TE|rush attempts|WR|same": {
+"rho": -0.023307782062974694,
+"n": 4739,
+"se": 0.014526354741081004
+},
+"receiving yards|TE|receptions|WR|same": {
+"rho": 0.024153815376824456,
+"n": 9448,
+"se": 0.010287978730078633
+},
+"receiving yards|TE|receiving yards|WR|same": {
+"rho": 0.02253643144123804,
+"n": 9448,
+"se": 0.010287978730078633
+},
+"receiving yards|TE|rush yards|WR|same": {
+"rho": -0.025720163581388504,
+"n": 4645,
+"se": 0.01467260211960279
+},
+"receiving yards|TE|rush attempts|WR|same": {
+"rho": -0.021027956966673252,
+"n": 4756,
+"se": 0.01450036976414354
+},
+"receptions|RB|receptions|TE|same": {
+"rho": 0.040576681019463524,
+"n": 5761,
+"se": 0.013175013302652961
+},
+"receiving yards|RB|receptions|TE|same": {
+"rho": 0.024198937213563382,
+"n": 5761,
+"se": 0.013175013302652961
+},
+"receptions|TE|rush yards|RB|same": {
+"rho": -0.013613142303659967,
+"n": 5925,
+"se": 0.012991396049232619
+},
+"receptions|TE|rush attempts|RB|same": {
+"rho": -0.001189148473683748,
+"n": 5937,
+"se": 0.012978260155024922
+},
+"receiving yards|TE|receptions|RB|same": {
+"rho": 0.03877707345728307,
+"n": 5780,
+"se": 0.01315334104411641
+},
+"receiving yards|RB|receiving yards|TE|same": {
+"rho": 0.027442407970976752,
+"n": 5780,
+"se": 0.01315334104411641
+},
+"receiving yards|TE|rush yards|RB|same": {
+"rho": -0.012085178078896641,
+"n": 5944,
+"se": 0.012970615926915468
+},
+"receiving yards|TE|rush attempts|RB|same": {
+"rho": 0.007945692068217445,
+"n": 5956,
+"se": 0.012957542902333604
+},
+"receptions|TE|rush yards|WR|opp": {
+"rho": -0.010179169892986029,
+"n": 4757,
+"se": 0.014498845575379761
+},
+"receptions|TE|rush attempts|WR|opp": {
+"rho": -0.022213960033028616,
+"n": 4872,
+"se": 0.01432670637653132
+},
+"receiving yards|TE|rush yards|WR|opp": {
+"rho": 0.0044119667555507355,
+"n": 4769,
+"se": 0.014480592720167369
+},
+"receiving yards|TE|rush attempts|WR|opp": {
+"rho": -0.013076538959870473,
+"n": 4885,
+"se": 0.014307630505634845
+},
+"receptions|RB|receptions|TE|opp": {
+"rho": 0.005458635111108634,
+"n": 5759,
+"se": 0.013177300829938652
+},
+"receiving yards|RB|receptions|TE|opp": {
+"rho": 0.003138379066978975,
+"n": 5759,
+"se": 0.013177300829938652
+},
+"receptions|TE|rush yards|RB|opp": {
+"rho": -0.004378523702132842,
+"n": 5947,
+"se": 0.012967343961525527
+},
+"receptions|TE|rush attempts|RB|opp": {
+"rho": -0.013236731088201063,
+"n": 5958,
+"se": 0.012955367905607862
+},
+"receiving yards|TE|receptions|RB|opp": {
+"rho": 0.00974826965522611,
+"n": 5777,
+"se": 0.013156755870285523
+},
+"receiving yards|RB|receiving yards|TE|opp": {
+"rho": -0.0007684362242273258,
+"n": 5777,
+"se": 0.013156755870285523
+},
+"receiving yards|TE|rush yards|RB|opp": {
+"rho": -0.005896064956215555,
+"n": 5964,
+"se": 0.012948849481091767
+},
+"receiving yards|TE|rush attempts|RB|opp": {
+"rho": -0.019142605585665017,
+"n": 5975,
+"se": 0.012936924547063017
+},
+"pass attempts|WR|receptions|TE|same": {
+"rho": 0.030554471882404545,
+"n": 727,
+"se": 0.0370879470776142
+},
+"pass attempts|WR|receiving yards|TE|same": {
+"rho": 0.048104448593900305,
+"n": 727,
+"se": 0.0370879470776142
+},
+"receptions|WR|rush attempts|TE|same": {
+"rho": -0.04293095535139929,
+"n": 1959,
+"se": 0.02259346194622841
+},
+"receiving yards|WR|rush attempts|TE|same": {
+"rho": -0.03771812764210165,
+"n": 1959,
+"se": 0.02259346194622841
+},
+"receptions|WR|rush attempts|TE|opp": {
+"rho": -0.003710166780363336,
+"n": 2028,
+"se": 0.02220577958421638
+},
+"receiving yards|WR|rush attempts|TE|opp": {
+"rho": -0.0004692133544677568,
+"n": 2028,
+"se": 0.02220577958421638
+},
+"rush attempts|TE|rush yards|WR|opp": {
+"rho": -0.03139437401453106,
+"n": 998,
+"se": 0.03165444689164592
+},
+"rush attempts|TE|rush attempts|WR|opp": {
+"rho": -0.05974632237500384,
+"n": 1020,
+"se": 0.03131121455425748
+},
+"receptions|RB|rush attempts|TE|opp": {
+"rho": -0.0006645435764710409,
+"n": 1218,
+"se": 0.02865341275306264
+},
+"receiving yards|RB|rush attempts|TE|opp": {
+"rho": -0.0433163270156595,
+"n": 1218,
+"se": 0.02865341275306264
+},
+"rush attempts|TE|rush yards|RB|opp": {
+"rho": -0.065110782856981,
+"n": 1271,
+"se": 0.02804963567266072
+},
+"rush attempts|RB|rush attempts|TE|opp": {
+"rho": -0.04529583095718329,
+"n": 1273,
+"se": 0.028027592733560525
+},
+"rush attempts|TE|rush yards|WR|same": {
+"rho": 0.025058112823788746,
+"n": 956,
+"se": 0.03234231136765754
+},
+"rush attempts|TE|rush attempts|WR|same": {
+"rho": 0.002101630849220157,
+"n": 970,
+"se": 0.03210806495339678
+},
+"pass tds|QB|rush attempts|TE|opp": {
+"rho": -0.02888015415047879,
+"n": 502,
+"se": 0.04463218426774518
+},
+"pass yards|QB|rush attempts|TE|opp": {
+"rho": 0.0095095695453089,
+"n": 513,
+"se": 0.044151078568834795
+},
+"rush attempts|TE|rush yards|QB|opp": {
+"rho": 0.0314089045090184,
+"n": 513,
+"se": 0.044151078568834795
+},
+"pass attempts|QB|rush attempts|TE|opp": {
+"rho": 0.043457050479646604,
+"n": 513,
+"se": 0.044151078568834795
+},
+"pass completions|QB|rush attempts|TE|opp": {
+"rho": 0.02553127566444801,
+"n": 513,
+"se": 0.044151078568834795
+},
+"rush attempts|QB|rush attempts|TE|opp": {
+"rho": 0.04845509431750833,
+"n": 513,
+"se": 0.044151078568834795
+},
+"interceptions|QB|rush attempts|TE|opp": {
+"rho": -0.018770972256726703,
+"n": 508,
+"se": 0.04436782547080569
+},
+"receptions|RB|rush attempts|TE|same": {
+"rho": -0.010131071114452923,
+"n": 1253,
+"se": 0.02825039109405883
+},
+"receiving yards|RB|rush attempts|TE|same": {
+"rho": -0.03185661011536281,
+"n": 1253,
+"se": 0.02825039109405883
+},
+"rush attempts|TE|rush yards|RB|same": {
+"rho": 0.03434921782652229,
+"n": 1259,
+"se": 0.028182994438777077
+},
+"rush attempts|RB|rush attempts|TE|same": {
+"rho": 0.0409479327227983,
+"n": 1265,
+"se": 0.028116077855776665
+},
+"receptions|WR|receptions|WR|opp": {
+"rho": 0.0033026685975144727,
+"n": 9342,
+"se": 0.01034618092073668
+},
+"receiving yards|WR|receptions|WR|opp": {
+"rho": 0.009472702851531522,
+"n": 18684,
+"se": 0.007315854688435785
+},
+"receptions|WR|rush yards|WR|opp": {
+"rho": 0.0061718213830612104,
+"n": 9261,
+"se": 0.010391328106475828
+},
+"receptions|WR|rush attempts|WR|opp": {
+"rho": 0.0022462973877523935,
+"n": 9476,
+"se": 0.010272767854485401
+},
+"receiving yards|WR|receiving yards|WR|opp": {
+"rho": 0.01913663355682839,
+"n": 9342,
+"se": 0.01034618092073668
+},
+"receiving yards|WR|rush yards|WR|opp": {
+"rho": 0.014511831113236041,
+"n": 9261,
+"se": 0.010391328106475828
+},
+"receiving yards|WR|rush attempts|WR|opp": {
+"rho": 0.008325730090469729,
+"n": 9476,
+"se": 0.010272767854485401
+},
+"pass attempts|WR|receptions|WR|opp": {
+"rho": 0.021326856394992568,
+"n": 1468,
+"se": 0.026099787548594027
+},
+"pass attempts|WR|receiving yards|WR|opp": {
+"rho": 0.04423131138107847,
+"n": 1468,
+"se": 0.026099787548594027
+},
+"pass attempts|WR|rush yards|WR|opp": {
+"rho": -0.04058580244216197,
+"n": 774,
+"se": 0.03594425773447947
+},
+"pass attempts|WR|rush attempts|WR|opp": {
+"rho": -0.0032209373523227965,
+"n": 800,
+"se": 0.035355339059327376
+},
+"receptions|RB|receptions|WR|opp": {
+"rho": -0.01562643831964714,
+"n": 11365,
+"se": 0.009380268720407104
+},
+"receiving yards|RB|receptions|WR|opp": {
+"rho": -0.006801860064104076,
+"n": 11365,
+"se": 0.009380268720407104
+},
+"receptions|WR|rush yards|RB|opp": {
+"rho": -0.003556177835357322,
+"n": 11724,
+"se": 0.009235535778668825
+},
+"receptions|WR|rush attempts|RB|opp": {
+"rho": -0.010158628018701007,
+"n": 11747,
+"se": 0.009226490005268258
+},
+"receiving yards|WR|receptions|RB|opp": {
+"rho": -0.0020892435674646657,
+"n": 11365,
+"se": 0.009380268720407104
+},
+"receiving yards|RB|receiving yards|WR|opp": {
+"rho": -0.0003461892109131878,
+"n": 11365,
+"se": 0.009380268720407104
+},
+"receiving yards|WR|rush yards|RB|opp": {
+"rho": 0.00020434829913478224,
+"n": 11724,
+"se": 0.009235535778668825
+},
+"receiving yards|WR|rush attempts|RB|opp": {
+"rho": -0.011181428042939914,
+"n": 11747,
+"se": 0.009226490005268258
+},
+"pass attempts|WR|receptions|RB|opp": {
+"rho": 0.054749163732934376,
+"n": 903,
+"se": 0.033277916281986085
+},
+"pass attempts|WR|receiving yards|RB|opp": {
+"rho": 0.038281882841592965,
+"n": 903,
+"se": 0.033277916281986085
+},
+"pass attempts|WR|rush yards|RB|opp": {
+"rho": -0.02475492629174169,
+"n": 925,
+"se": 0.032879797461071454
+},
+"pass attempts|WR|rush attempts|RB|opp": {
+"rho": -0.03385744286955439,
+"n": 928,
+"se": 0.032826608214930636
+},
+"receptions|WR|receptions|WR|same": {
+"rho": 0.045914323460611424,
+"n": 7545,
+"se": 0.011512519476860949
+},
+"receiving yards|WR|receptions|WR|same": {
+"rho": 0.023681498856847474,
+"n": 15090,
+"se": 0.008140580590630582
+},
+"receptions|WR|rush yards|WR|same": {
+"rho": -0.005720538373047664,
+"n": 7469,
+"se": 0.011570943428470997
+},
+"receptions|WR|rush attempts|WR|same": {
+"rho": 0.00259072441898149,
+"n": 7642,
+"se": 0.011439221866534593
+},
+"receiving yards|WR|receiving yards|WR|same": {
+"rho": 0.010482340297985098,
+"n": 7545,
+"se": 0.011512519476860949
+},
+"receiving yards|WR|rush yards|WR|same": {
+"rho": -0.0021055719817386913,
+"n": 7469,
+"se": 0.011570943428470997
+},
+"receiving yards|WR|rush attempts|WR|same": {
+"rho": 0.005552485545294926,
+"n": 7642,
+"se": 0.011439221866534593
+},
+"pass attempts|WR|receptions|WR|same": {
+"rho": 0.007011596689194127,
+"n": 1144,
+"se": 0.02956561979945413
+},
+"pass attempts|WR|receiving yards|WR|same": {
+"rho": 0.010590295147338316,
+"n": 1144,
+"se": 0.02956561979945413
+},
+"pass attempts|WR|rush yards|WR|same": {
+"rho": 0.031482899790233644,
+"n": 567,
+"se": 0.0419960525565808
+},
+"pass attempts|WR|rush attempts|WR|same": {
+"rho": 0.03753852779004322,
+"n": 591,
+"se": 0.04113450348948636
+},
+"pass attempts|WR|pass tds|QB|opp": {
+"rho": 0.06438092846743201,
+"n": 362,
+"se": 0.052558833122763673
+},
+"pass attempts|WR|pass yards|QB|opp": {
+"rho": 0.05866442051364588,
+"n": 364,
+"se": 0.052414241836095915
+},
+"pass attempts|WR|rush yards|QB|opp": {
+"rho": -0.08628938678823973,
+"n": 364,
+"se": 0.052414241836095915
+},
+"pass attempts|QB|pass attempts|WR|opp": {
+"rho": 0.024299651513406424,
+"n": 364,
+"se": 0.052414241836095915
+},
+"pass attempts|WR|pass completions|QB|opp": {
+"rho": 0.050268580490325995,
+"n": 364,
+"se": 0.052414241836095915
+},
+"pass attempts|WR|rush attempts|QB|opp": {
+"rho": -0.03465260912654665,
+"n": 364,
+"se": 0.052414241836095915
+},
+"interceptions|QB|pass attempts|WR|opp": {
+"rho": -0.03424611812426455,
+"n": 354,
+"se": 0.05314940034527339
+},
+"receptions|RB|receptions|WR|same": {
+"rho": 0.04268846407781687,
+"n": 11361,
+"se": 0.009381919885482455
+},
+"receiving yards|RB|receptions|WR|same": {
+"rho": 0.022334675044903968,
+"n": 11361,
+"se": 0.009381919885482455
+},
+"receptions|WR|rush yards|RB|same": {
+"rho": -0.018482267336566875,
+"n": 11737,
+"se": 0.009230419683032901
+},
+"receptions|WR|rush attempts|RB|same": {
+"rho": -0.021445504784640187,
+"n": 11751,
+"se": 0.009224919538873007
+},
+"receiving yards|WR|receptions|RB|same": {
+"rho": 0.028499664394416164,
+"n": 11361,
+"se": 0.009381919885482455
+},
+"receiving yards|RB|receiving yards|WR|same": {
+"rho": 0.022072189977239136,
+"n": 11361,
+"se": 0.009381919885482455
+},
+"receiving yards|WR|rush yards|RB|same": {
+"rho": -0.01869739831079329,
+"n": 11737,
+"se": 0.009230419683032901
+},
+"receiving yards|WR|rush attempts|RB|same": {
+"rho": -0.01631148874283968,
+"n": 11751,
+"se": 0.009224919538873007
+},
+"pass attempts|WR|receptions|RB|same": {
+"rho": 0.0363621504791837,
+"n": 840,
+"se": 0.03450327796711771
+},
+"pass attempts|WR|receiving yards|RB|same": {
+"rho": 0.03804658073792759,
+"n": 840,
+"se": 0.03450327796711771
+},
+"pass attempts|WR|rush yards|RB|same": {
+"rho": 0.0445002709271844,
+"n": 873,
+"se": 0.03384487217112064
+},
+"pass attempts|WR|rush attempts|RB|same": {
+"rho": 0.026847563205986375,
+"n": 873,
+"se": 0.03384487217112064
+},
+"receptions|RB|rush yards|WR|same": {
+"rho": -0.007470462662104958,
+"n": 5630,
+"se": 0.013327411355100583
+},
+"receiving yards|RB|rush yards|WR|same": {
+"rho": 0.003973756256606568,
+"n": 5630,
+"se": 0.013327411355100583
+},
+"rush yards|RB|rush yards|WR|same": {
+"rho": 0.029929093786569622,
+"n": 5836,
+"se": 0.013090081737343578
+},
+"rush attempts|RB|rush yards|WR|same": {
+"rho": 0.0013839816193598948,
+"n": 5850,
+"se": 0.013074409009212268
+},
+"receptions|RB|rush attempts|WR|same": {
+"rho": 0.0067526713912760186,
+"n": 5756,
+"se": 0.01318073435607412
+},
+"receiving yards|RB|rush attempts|WR|same": {
+"rho": 0.021537407904868428,
+"n": 5756,
+"se": 0.01318073435607412
+},
+"rush attempts|WR|rush yards|RB|same": {
+"rho": 0.05278554656445167,
+"n": 5974,
+"se": 0.012938007270799863
+},
+"rush attempts|RB|rush attempts|WR|same": {
+"rho": 0.03677905413399458,
+"n": 5988,
+"se": 0.01292287382909359
+},
+"rush yards|WR|rush yards|WR|opp": {
+"rho": 0.009144587226246935,
+"n": 2289,
+"se": 0.020901483117353754
+},
+"rush attempts|WR|rush yards|WR|opp": {
+"rho": 0.008786317993854553,
+"n": 4686,
+"se": 0.014608272377400623
+},
+"rush attempts|WR|rush attempts|WR|opp": {
+"rho": -0.005743455384661597,
+"n": 2398,
+"se": 0.020420925015338272
+},
+"receptions|RB|rush yards|WR|opp": {
+"rho": -9.124031259342612e-05,
+"n": 5637,
+"se": 0.013319133826287714
+},
+"receiving yards|RB|rush yards|WR|opp": {
+"rho": 0.010378280072934676,
+"n": 5637,
+"se": 0.013319133826287714
+},
+"rush yards|RB|rush yards|WR|opp": {
+"rho": -0.023961936422101836,
+"n": 5819,
+"se": 0.013109188894685375
+},
+"rush attempts|RB|rush yards|WR|opp": {
+"rho": -0.021046316262356632,
+"n": 5830,
+"se": 0.013096815896275179
+},
+"receptions|RB|rush attempts|WR|opp": {
+"rho": 0.002883724272778174,
+"n": 5771,
+"se": 0.013163593509137896
+},
+"receiving yards|RB|rush attempts|WR|opp": {
+"rho": 0.009737506562696861,
+"n": 5771,
+"se": 0.013163593509137896
+},
+"rush attempts|WR|rush yards|RB|opp": {
+"rho": -0.045721459392567575,
+"n": 5955,
+"se": 0.012958630811567068
+},
+"rush attempts|RB|rush attempts|WR|opp": {
+"rho": -0.04979491107508774,
+"n": 5966,
+"se": 0.012946678858416036
+},
+"rush yards|WR|rush yards|WR|same": {
+"rho": -0.007866447315819095,
+"n": 1685,
+"se": 0.024361276856704795
+},
+"rush attempts|WR|rush yards|WR|same": {
+"rho": -0.0013329424362710839,
+"n": 3439,
+"se": 0.01705233720429863
+},
+"rush attempts|WR|rush attempts|WR|same": {
+"rho": 0.013504337683128934,
+"n": 1754,
+"se": 0.023877299420036403
+},
+"receptions|RB|receptions|RB|opp": {
+"rho": -0.0050032354659919325,
+"n": 3438,
+"se": 0.017054817003221697
+},
+"receiving yards|RB|receptions|RB|opp": {
+"rho": 0.009810110654762508,
+"n": 6876,
+"se": 0.012059576754873694
+},
+"receptions|RB|rush yards|RB|opp": {
+"rho": -0.0020958207199002596,
+"n": 7094,
+"se": 0.011872834332813964
+},
+"receptions|RB|rush attempts|RB|opp": {
+"rho": -0.0019623536876317072,
+"n": 7109,
+"se": 0.011860301869872747
+},
+"receiving yards|RB|receiving yards|RB|opp": {
+"rho": 0.02989985187436444,
+"n": 3438,
+"se": 0.017054817003221697
+},
+"receiving yards|RB|rush yards|RB|opp": {
+"rho": -0.022735789898246022,
+"n": 7094,
+"se": 0.011872834332813964
+},
+"receiving yards|RB|rush attempts|RB|opp": {
+"rho": -0.02255253775029387,
+"n": 7109,
+"se": 0.011860301869872747
+},
+"rush yards|RB|rush yards|RB|opp": {
+"rho": -0.08248828647043872,
+"n": 3658,
+"se": 0.016534008228581126
+},
+"rush attempts|RB|rush yards|RB|opp": {
+"rho": -0.08998364336441202,
+"n": 7331,
+"se": 0.011679342387445961
+},
+"rush attempts|RB|rush attempts|RB|opp": {
+"rho": -0.11294372822668727,
+"n": 3673,
+"se": 0.016500212441602786
+},
+"receptions|RB|receptions|RB|same": {
+"rho": 0.04690415485269312,
+"n": 2295,
+"se": 0.020874143036171647
+},
+"receiving yards|RB|receptions|RB|same": {
+"rho": 0.02949734607651685,
+"n": 4590,
+"se": 0.014760248092334923
+},
+"receptions|RB|rush yards|RB|same": {
+"rho": -0.022080967735228017,
+"n": 4760,
+"se": 0.014494275891311212
+},
+"receptions|RB|rush attempts|RB|same": {
+"rho": -0.0335851038946694,
+"n": 4771,
+"se": 0.0144775572746419
+},
+"receiving yards|RB|receiving yards|RB|same": {
+"rho": 0.03438452143001312,
+"n": 2295,
+"se": 0.020874143036171647
+},
+"receiving yards|RB|rush yards|RB|same": {
+"rho": -0.0065322710692532725,
+"n": 4760,
+"se": 0.014494275891311212
+},
+"receiving yards|RB|rush attempts|RB|same": {
+"rho": -0.00927039038195628,
+"n": 4771,
+"se": 0.0144775572746419
+},
+"rush yards|RB|rush yards|RB|same": {
+"rho": 0.089882494233255,
+"n": 2470,
+"se": 0.020121090914638342
+},
+"rush attempts|RB|rush yards|RB|same": {
+"rho": 0.08481799205920042,
+"n": 4951,
+"se": 0.014211945612807335
+},
+"rush attempts|RB|rush attempts|RB|same": {
+"rho": 0.06417182929127493,
+"n": 2481,
+"se": 0.02007643596197061
+},
+"receptions|QB|receptions|WR|same": {
+"rho": -0.03870784866498789,
+"n": 602,
+"se": 0.04075695729696112
+},
+"receiving yards|QB|receptions|WR|same": {
+"rho": -0.05047546849726918,
+"n": 680,
+"se": 0.03834824944236852
+},
+"receiving yards|WR|receptions|QB|same": {
+"rho": 0.0017122817490431048,
+"n": 602,
+"se": 0.04075695729696112
+},
+"receiving yards|QB|receiving yards|WR|same": {
+"rho": -0.02162685700175421,
+"n": 680,
+"se": 0.03834824944236852
+},
+"receiving yards|QB|rush yards|WR|same": {
+"rho": 0.07976982330832898,
+"n": 337,
+"se": 0.05447347107028433
+},
+"receiving yards|QB|rush attempts|WR|same": {
+"rho": -0.03827464674893027,
+"n": 337,
+"se": 0.05447347107028433
+},
+"pass attempts|RB|receptions|WR|same": {
+"rho": -0.024945420024944428,
+"n": 457,
+"se": 0.0467780269724988
+},
+"pass attempts|RB|receiving yards|WR|same": {
+"rho": 0.06254476208770536,
+"n": 457,
+"se": 0.0467780269724988
+},
+"pass yards|WR|receptions|WR|same": {
+"rho": -0.019953008998846222,
+"n": 541,
+"se": 0.04299335803923478
+},
+"pass completions|WR|receptions|WR|same": {
+"rho": -0.029472315632910813,
+"n": 541,
+"se": 0.04299335803923478
+},
+"pass yards|WR|receiving yards|WR|same": {
+"rho": 0.006461844095063955,
+"n": 541,
+"se": 0.04299335803923478
+},
+"pass completions|WR|receiving yards|WR|same": {
+"rho": -0.0011272786667039705,
+"n": 541,
+"se": 0.04299335803923478
+},
+"receptions|QB|receptions|WR|opp": {
+"rho": 0.036930869718777126,
+"n": 564,
+"se": 0.04210759605332595
+},
+"receiving yards|QB|receptions|WR|opp": {
+"rho": 0.06558786554664855,
+"n": 632,
+"se": 0.0397778642087865
+},
+"receiving yards|WR|receptions|QB|opp": {
+"rho": 0.07784474096659677,
+"n": 564,
+"se": 0.04210759605332595
+},
+"receiving yards|QB|receiving yards|WR|opp": {
+"rho": 0.10366089997431549,
+"n": 632,
+"se": 0.0397778642087865
+},
+"pass attempts|RB|receptions|WR|opp": {
+"rho": -0.05103532854080398,
+"n": 477,
+"se": 0.04578685464956301
+},
+"pass attempts|RB|receiving yards|WR|opp": {
+"rho": -0.06878346302985705,
+"n": 477,
+"se": 0.04578685464956301
+},
+"pass tds|WR|receptions|WR|opp": {
+"rho": 0.09598122540920366,
+"n": 339,
+"se": 0.054312544659356844
+},
+"pass yards|WR|receptions|WR|opp": {
+"rho": 0.08371259852160594,
+"n": 690,
+"se": 0.03806934938134405
+},
+"pass completions|WR|receptions|WR|opp": {
+"rho": 0.07755908360256239,
+"n": 690,
+"se": 0.03806934938134405
+},
+"pass tds|WR|receiving yards|WR|opp": {
+"rho": 0.14487544036634817,
+"n": 339,
+"se": 0.054312544659356844
+},
+"pass yards|WR|receiving yards|WR|opp": {
+"rho": 0.09389614192148399,
+"n": 690,
+"se": 0.03806934938134405
+},
+"pass completions|WR|receiving yards|WR|opp": {
+"rho": 0.09513627030597333,
+"n": 690,
+"se": 0.03806934938134405
+},
+"receiving yards|QB|rush yards|WR|opp": {
+"rho": -0.050114699559192975,
+"n": 318,
+"se": 0.056077215409204434
+},
+"receiving yards|QB|rush attempts|WR|opp": {
+"rho": -0.09679142999716482,
+"n": 325,
+"se": 0.05547001962252291
+},
+"receptions|QB|receptions|RB|same": {
+"rho": -0.007232821391849853,
+"n": 340,
+"se": 0.05423261445466404
+},
+"receiving yards|RB|receptions|QB|same": {
+"rho": 0.03874740672314268,
+"n": 340,
+"se": 0.05423261445466404
+},
+"receptions|QB|rush yards|RB|same": {
+"rho": -0.038577769043115315,
+"n": 354,
+"se": 0.05314940034527339
+},
+"receptions|QB|rush attempts|RB|same": {
+"rho": -0.03672484024239271,
+"n": 354,
+"se": 0.05314940034527339
+},
+"receiving yards|QB|receptions|RB|same": {
+"rho": 0.029656960150675992,
+"n": 393,
+"se": 0.050443327230531826
+},
+"receiving yards|QB|receiving yards|RB|same": {
+"rho": 0.05825804959676562,
+"n": 393,
+"se": 0.050443327230531826
+},
+"receiving yards|QB|rush yards|RB|same": {
+"rho": 0.06876625763714264,
+"n": 413,
+"se": 0.04920678313051229
+},
+"receiving yards|QB|rush attempts|RB|same": {
+"rho": 0.054351658303463675,
+"n": 413,
+"se": 0.04920678313051229
+},
+"receiving yards|QB|receptions|TE|opp": {
+"rho": -0.03287833794670392,
+"n": 311,
+"se": 0.05670479771237427
+},
+"receiving yards|QB|receiving yards|TE|opp": {
+"rho": 0.04163330472741121,
+"n": 313,
+"se": 0.05652334189442215
+},
+"receiving yards|QB|receptions|TE|same": {
+"rho": 0.02135108657966977,
+"n": 322,
+"se": 0.05572782125753528
+},
+"receiving yards|QB|receiving yards|TE|same": {
+"rho": 0.07878115370545223,
+"n": 322,
+"se": 0.05572782125753528
+},
+"receptions|QB|receptions|RB|opp": {
+"rho": 0.05859372951027564,
+"n": 333,
+"se": 0.0547996624351191
+},
+"receiving yards|RB|receptions|QB|opp": {
+"rho": 0.0743193131239285,
+"n": 333,
+"se": 0.0547996624351191
+},
+"receptions|QB|rush yards|RB|opp": {
+"rho": -0.044504853479364725,
+"n": 344,
+"se": 0.053916386601719206
+},
+"receptions|QB|rush attempts|RB|opp": {
+"rho": -0.014666321621664688,
+"n": 346,
+"se": 0.053760333057047034
+},
+"receiving yards|QB|receptions|RB|opp": {
+"rho": 0.004972675499721058,
+"n": 384,
+"se": 0.051031036307982884
+},
+"receiving yards|QB|receiving yards|RB|opp": {
+"rho": 0.033934038692624506,
+"n": 384,
+"se": 0.051031036307982884
+},
+"receiving yards|QB|rush yards|RB|opp": {
+"rho": -0.07142687516005942,
+"n": 393,
+"se": 0.050443327230531826
+},
+"receiving yards|QB|rush attempts|RB|opp": {
+"rho": -0.06838159552863877,
+"n": 395,
+"se": 0.05031546054266276
+},
+"pass yards|WR|rush yards|WR|opp": {
+"rho": -0.009968203340534863,
+"n": 370,
+"se": 0.05198752449100364
+},
+"pass completions|WR|rush yards|WR|opp": {
+"rho": -0.01100454827017173,
+"n": 370,
+"se": 0.05198752449100364
+},
+"pass yards|WR|rush attempts|WR|opp": {
+"rho": -0.0185984223620476,
+"n": 380,
+"se": 0.051298917604257706
+},
+"pass completions|WR|rush attempts|WR|opp": {
+"rho": -0.027442856174341473,
+"n": 380,
+"se": 0.051298917604257706
+},
+"pass yards|WR|receptions|RB|same": {
+"rho": 0.028766800881959858,
+"n": 398,
+"se": 0.05012547071170855
+},
+"pass completions|WR|receptions|RB|same": {
+"rho": 0.02839266288020161,
+"n": 398,
+"se": 0.05012547071170855
+},
+"pass yards|WR|receiving yards|RB|same": {
+"rho": 0.07718085395281912,
+"n": 398,
+"se": 0.05012547071170855
+},
+"pass completions|WR|receiving yards|RB|same": {
+"rho": 0.0895345073117827,
+"n": 398,
+"se": 0.05012547071170855
+},
+"pass yards|WR|rush yards|RB|same": {
+"rho": 0.10377950016015573,
+"n": 422,
+"se": 0.04867923835112355
+},
+"pass completions|WR|rush yards|RB|same": {
+"rho": 0.10653287520216828,
+"n": 422,
+"se": 0.04867923835112355
+},
+"pass yards|WR|rush attempts|RB|same": {
+"rho": 0.08779856926108545,
+"n": 422,
+"se": 0.04867923835112355
+},
+"pass completions|WR|rush attempts|RB|same": {
+"rho": 0.08590957856859269,
+"n": 422,
+"se": 0.04867923835112355
+},
+"pass yards|WR|receptions|TE|opp": {
+"rho": 0.03134719225736503,
+"n": 332,
+"se": 0.05488212999484517
+},
+"pass completions|WR|receptions|TE|opp": {
+"rho": 0.01942227212874352,
+"n": 332,
+"se": 0.05488212999484517
+},
+"pass yards|WR|receiving yards|TE|opp": {
+"rho": 0.03838987971250615,
+"n": 333,
+"se": 0.0547996624351191
+},
+"pass completions|WR|receiving yards|TE|opp": {
+"rho": 0.03051729098793665,
+"n": 333,
+"se": 0.0547996624351191
+},
+"pass yards|WR|receptions|TE|same": {
+"rho": 0.057374124446522866,
+"n": 347,
+"se": 0.0536828127095019
+},
+"pass completions|WR|receptions|TE|same": {
+"rho": 0.02181887505305733,
+"n": 347,
+"se": 0.0536828127095019
+},
+"pass yards|WR|receiving yards|TE|same": {
+"rho": 0.09149465569416905,
+"n": 347,
+"se": 0.0536828127095019
+},
+"pass completions|WR|receiving yards|TE|same": {
+"rho": 0.06110575191963645,
+"n": 347,
+"se": 0.0536828127095019
+},
+"pass yards|WR|receptions|RB|opp": {
+"rho": 0.17588098126572055,
+"n": 415,
+"se": 0.0490880693673816
+},
+"pass yards|WR|receiving yards|RB|opp": {
+"rho": 0.16392920239550676,
+"n": 415,
+"se": 0.0490880693673816
+},
+"pass yards|WR|rush yards|RB|opp": {
+"rho": 0.0056944869041291035,
+"n": 422,
+"se": 0.04867923835112355
+},
+"pass yards|WR|rush attempts|RB|opp": {
+"rho": -0.042376028559024996,
+"n": 424,
+"se": 0.04856429311786321
+},
+"pass completions|WR|receptions|RB|opp": {
+"rho": 0.17485163977283033,
+"n": 415,
+"se": 0.0490880693673816
+},
+"pass completions|WR|receiving yards|RB|opp": {
+"rho": 0.17513349189201008,
+"n": 415,
+"se": 0.0490880693673816
+},
+"pass completions|WR|rush yards|RB|opp": {
+"rho": 0.0061606878272455175,
+"n": 422,
+"se": 0.04867923835112355
+},
+"pass completions|WR|rush attempts|RB|opp": {
+"rho": -0.02856737236908601,
+"n": 424,
+"se": 0.04856429311786321
+},
+"pass tds|QB|rush yards|TE|opp": {
+"rho": -0.029439610867855598,
+"n": 459,
+"se": 0.04667600280093366
+},
+"pass yards|QB|rush yards|TE|opp": {
+"rho": -0.05744005758396898,
+"n": 470,
+"se": 0.04612656040144425
+},
+"rush yards|QB|rush yards|TE|opp": {
+"rho": -0.033945836488813,
+"n": 470,
+"se": 0.04612656040144425
+},
+"pass attempts|QB|rush yards|TE|opp": {
+"rho": -0.010181871054185576,
+"n": 470,
+"se": 0.04612656040144425
+},
+"pass completions|QB|rush yards|TE|opp": {
+"rho": -0.013978594615556329,
+"n": 470,
+"se": 0.04612656040144425
+},
+"rush attempts|QB|rush yards|TE|opp": {
+"rho": 0.053000779432609814,
+"n": 470,
+"se": 0.04612656040144425
+},
+"interceptions|QB|rush yards|TE|opp": {
+"rho": -0.06924604613347667,
+"n": 466,
+"se": 0.04632410546120795
+},
+"receptions|WR|rush yards|TE|opp": {
+"rho": -0.021531336429104785,
+"n": 1864,
+"se": 0.023162052730603976
+},
+"receiving yards|WR|rush yards|TE|opp": {
+"rho": -0.02763208397243776,
+"n": 1864,
+"se": 0.023162052730603976
+},
+"pass tds|QB|rush yards|TE|same": {
+"rho": -0.052018344544608304,
+"n": 446,
+"se": 0.04735137238103784
+},
+"pass yards|QB|rush yards|TE|same": {
+"rho": -0.010677932505868947,
+"n": 446,
+"se": 0.04735137238103784
+},
+"rush yards|QB|rush yards|TE|same": {
+"rho": -0.06291939867036014,
+"n": 446,
+"se": 0.04735137238103784
+},
+"pass attempts|QB|rush yards|TE|same": {
+"rho": 0.013420912745570808,
+"n": 446,
+"se": 0.04735137238103784
+},
+"pass completions|QB|rush yards|TE|same": {
+"rho": 0.007589180651432535,
+"n": 446,
+"se": 0.04735137238103784
+},
+"rush attempts|QB|rush yards|TE|same": {
+"rho": 0.025817135294202313,
+"n": 446,
+"se": 0.04735137238103784
+},
+"interceptions|QB|rush yards|TE|same": {
+"rho": 0.023255885664602755,
+"n": 440,
+"se": 0.04767312946227962
+},
+"rush attempts|WR|rush yards|TE|opp": {
+"rho": -0.025069540727333816,
+"n": 933,
+"se": 0.03273853022358256
+},
+"receptions|RB|rush yards|TE|same": {
+"rho": 0.025197645012046715,
+"n": 1153,
+"se": 0.02945000320268802
+},
+"receiving yards|RB|rush yards|TE|same": {
+"rho": 0.005065348609855139,
+"n": 1153,
+"se": 0.02945000320268802
+},
+"rush yards|RB|rush yards|TE|same": {
+"rho": 0.03231444574266464,
+"n": 1154,
+"se": 0.029437240470473185
+},
+"rush attempts|RB|rush yards|TE|same": {
+"rho": 0.03382349496648495,
+"n": 1160,
+"se": 0.029361010975735173
+},
+"receptions|WR|rush yards|TE|same": {
+"rho": -0.028214724054857233,
+"n": 1786,
+"se": 0.023662426214015053
+},
+"receiving yards|WR|rush yards|TE|same": {
+"rho": -0.017523839510228904,
+"n": 1786,
+"se": 0.023662426214015053
+},
+"receptions|TE|rush yards|TE|same": {
+"rho": 0.04802436298522004,
+"n": 595,
+"se": 0.040996003084539386
+},
+"receiving yards|TE|rush yards|TE|same": {
+"rho": 0.025454364740388306,
+"n": 595,
+"se": 0.040996003084539386
+},
+"receptions|TE|rush attempts|TE|same": {
+"rho": -0.017183761814525925,
+"n": 654,
+"se": 0.039103094350288754
+},
+"receiving yards|TE|rush attempts|TE|same": {
+"rho": -0.02183401888876922,
+"n": 654,
+"se": 0.039103094350288754
+},
+"rush yards|TE|rush yards|WR|opp": {
+"rho": -0.007958928574600826,
+"n": 914,
+"se": 0.03307706008278112
+},
+"receptions|RB|rush yards|TE|opp": {
+"rho": -0.002075027783602475,
+"n": 1115,
+"se": 0.02994763741177399
+},
+"receiving yards|RB|rush yards|TE|opp": {
+"rho": -0.026251686388448898,
+"n": 1115,
+"se": 0.02994763741177399
+},
+"rush yards|RB|rush yards|TE|opp": {
+"rho": -0.042570517982622354,
+"n": 1162,
+"se": 0.02933573244244288
+},
+"rush attempts|RB|rush yards|TE|opp": {
+"rho": -0.03986173245108152,
+"n": 1164,
+"se": 0.02931051908802746
+},
+"receptions|TE|rush yards|TE|opp": {
+"rho": -0.001022241382955181,
+"n": 940,
+"se": 0.03261640365267211
+},
+"receiving yards|TE|rush yards|TE|opp": {
+"rho": 0.006452461236837335,
+"n": 947,
+"se": 0.032495633692564134
+},
+"rush yards|TE|rush yards|WR|same": {
+"rho": 0.04113576901808295,
+"n": 863,
+"se": 0.03404039587848988
+},
+"rush attempts|WR|rush yards|TE|same": {
+"rho": 0.0269926839027998,
+"n": 877,
+"se": 0.033767600672658715
+}
+}
+}

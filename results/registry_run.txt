@@ -1,0 +1,16 @@
+REGISTRY_v1.0 built in 860s: Kalshi winner events 1180 in 73 series | Pinnacle events 850 | auto-matched 269 | below threshold/ambiguous 25 | unmatched 886
+source health: pinnacle/Baseball HEALTHY (8); pinnacle/Basketball HEALTHY (47); pinnacle/Boxing HEALTHY (2); pinnacle/Chess FAILED (<HTTPError 403: 'Forbidden'>); pinnacle/Cricket HEALTHY (2); pinnacle/Darts FAILED (<HTTPError 403: 'Forbidden'>); pinnacle/E Sports HEALTHY (11); pinnacle/Football HEALTHY (67); pinnacle/Golf FAILED (<HTTPError 403: 'Forbidden'>); pinnacle/Handball FAILED (<HTTPError 403: 'Forbidden'>); pinnacle/Hockey FAILED (<HTTPError 403: 'Forbidden'>); pinnacle/Mixed Martial Arts HEALTHY (17); pinnacle/Rugby Union FAILED (<HTTPError 403: 'Forbidden'>); pinnacle/Snooker FAILED (<HTTPError 403: 'Forbidden'>); pinnacle/Soccer HEALTHY (588); pinnacle/Tennis HEALTHY (102); pinnacle/Volleyball HEALTHY (6)
+equivalence of auto-matched: {'NEAR_EQUIVALENT': 226, 'NOT_COMPARABLE': 4, 'MATERIAL_DIFFERENCE': 39}
+coverage status counts: {'DISCOVERED': 35, 'INGESTION READY': 18, 'MARKET-ONLY PAPER READY': 3, 'MATCHING READY': 17, 'DISCOVERED (no Kalshi market)': 110}
+  [100] KXSERIEAGAME-26OCT11CAGJUV       Cagliari vs Juventus                     -> Italy - Serie A: Cagliari vs Juventus                        NEAR_EQUIVALENT
+  [100] KXLIGUE1GAME-26OCT11ESTOLM       Troyes vs Marseille                      -> France - Ligue 1: Troyes vs Marseille                        NEAR_EQUIVALENT
+  [100] KXLALIGAGAME-26OCT11RBBOSA       Real Betis vs Osasuna                    -> Spain - La Liga: Real Betis vs Osasuna                       NEAR_EQUIVALENT
+  [100] KXSERIEAGAME-26OCT11SASACM       Sassuolo vs Milan                        -> Italy - Serie A: Sassuolo vs AC Milan                        NEAR_EQUIVALENT
+  [100] KXEPLGAME-26OCT11LFCMCI          Liverpool vs Manchester City             -> England - Premier League: Liverpool vs Manchester City       NEAR_EQUIVALENT
+  [100] KXLALIGAGAME-26OCT11RSODEP       Real Sociedad vs Deportivo De La Coruna  -> Spain - La Liga: Real Sociedad vs Deportivo La Coruna        NEAR_EQUIVALENT
+  [100] KXSERIEAGAME-26OCT11LECBFC       Lecce vs Bologna                         -> Italy - Serie A: Lecce vs Bologna                            NEAR_EQUIVALENT
+  [100] KXSERIEAGAME-26OCT11LAZMON       Lazio vs Monza                           -> Italy - Serie A: Lazio vs Monza                              NEAR_EQUIVALENT
+  [100] KXEPLGAME-26OCT11HULEVE          Hull City vs Everton                     -> England - Premier League: Hull City vs Everton               NEAR_EQUIVALENT
+  [100] KXEPLGAME-26OCT11CRYNFO          Crystal Palace vs Nottingham Forest      -> England - Premier League: Crystal Palace vs Nottingham Fores NEAR_EQUIVALENT
+  [100] KXLALIGAGAME-26OCT11ELCRCC       Elche vs Celta Vigo                      -> Spain - La Liga: Elche vs Celta Vigo                         NEAR_EQUIVALENT
+  [100] KXSERIEAGAME-26OCT11COMROM       Como vs Roma                             -> Italy - Serie A: Como vs Roma                                NEAR_EQUIVALENT

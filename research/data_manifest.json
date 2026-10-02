@@ -1,0 +1,27 @@
+{
+ "created": "2026-09-28",
+ "files": {
+  "espn_nba/": "81a35e78ba9c3964a895f0dd415dd84c64ec3c3fa4268f3cbdfca07e3d064130",
+  "kalshi_KXMLBGAME_markets.json": "3847c0b808eaf4a22c6f607f779d8dda543c878286ce1c12698fd72fd8bd2a1d",
+  "kalshi_KXNBAGAME_markets.json": "c1b68263954b98a613144d5da0bf2a2aad36eaeb80af82468e22ad9212c0b5ed",
+  "kalshi_KXNCAAFGAME_markets.json": "f2f9f690fff7b4c596bc767a9137273bf8daedf69ebe1670d59ebb55b0404e7a",
+  "kalshi_KXNFLGAME_markets.json": "6f2d54605f38a382effe663a9f2598696119505ad8c4282b0b2a1741fdc446ca",
+  "kalshi_KXNHLGAME_markets.json": "b4881b85eebec4c3bcc1784c78f02a6e51de8fb2e1a5b009a2d99c41157e5ff3",
+  "kalshi_KXWNBAGAME_markets.json": "22a589cbd8765c6e54b948f71dc1f84c42f5bbeeff903eeb858e65ff291fb025",
+  "kalshi_candles/": "fd2ba4f5c7f1771560f5bde96c14ee88dcf547c547b0df5d65829b9d6c05dcba",
+  "kalshi_nbaprops/": "ce238a2c832eeebcd90de3c07b7ee240198291da985a86d57b8cbaeb8bdbff2f",
+  "kalshi_passtds/": "2f02c1fd59f4aa43baff354ae956d4cc1d27c4ea3be63c2af071671356643804",
+  "nba_games_2025_26.csv": "95df6581465851bbda5008b7222587ae1bc6038f521fde7d9eb547861358c587",
+  "nba_player_games_2025_26.csv": "bd1735e0a2251ebe141cb8cf5f88bc9ad2cf8eb2ba171712ac2b49420d572fa5",
+  "nfl_games.csv": "fe2ded7335a0923d6d1be56fd18656e9e7c25a9c38db2d1123f7e6da5bfc2d43",
+  "nfl_player_week_2024.csv": "3ddc45a84f759aa348ce465ae001752c530575455717657cdfe1f8abfcdb4759",
+  "nfl_player_week_2025.csv": "e5e0615b3d96a3eaebfaee91e55afb4a4e7fe0caf057454177bcd7d6ad4bcfc2",
+  "nfl_player_week_2026.csv": "529c30520f44196d88d85c3ca8388ba8ff0d322fa26ef2eb8f1c6fa5c8624a90"
+ },
+ "dir_file_counts": {
+  "espn_nba/": 1326,
+  "kalshi_nbaprops/": 11603,
+  "kalshi_passtds/": 1222,
+  "kalshi_candles/": 20496
+ }
+}
